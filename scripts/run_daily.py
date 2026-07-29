@@ -82,6 +82,11 @@ def run_processor_and_publish(max_batches=20):
         if after >= before:
             print("[run_daily] no progress made this batch — stopping to avoid looping forever")
             break
+    else:
+        remaining = len(load_json(RAW_INCOMING_JSON, []))
+        if remaining:
+            print(f"[run_daily] hit the {max_batches}-batch cap for this run with {remaining} "
+                  f"items still queued — run this again to keep draining the backlog.")
 
 
 def publish_to_github():
