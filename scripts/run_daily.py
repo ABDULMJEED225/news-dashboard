@@ -14,31 +14,74 @@ import fetch_reddit
 import build_dashboard
 
 
-def run_processor_subagent():
+BATCH_TIMEOUT_SECONDS = 20 * 60  # a 10-item batch should never legitimately take this long
+
+
+def run_one_batch():
+    """Invoke the news-processor for a single (small, capped) batch.
+    Returns the subprocess return code, or None if it had to be killed for
+    running past BATCH_TIMEOUT_SECONDS (e.g. stuck waiting on a login
+    prompt in a context with no interactive login — this keeps an
+    unattended scheduled run from hanging forever)."""
+    env = os.environ.copy()
+    env["CLAUDE_CODE_PRINT_BG_WAIT_CEILING_MS"] = "0"  # don't give up on a legitimately long batch
+    try:
+        result = subprocess.run(
+            [
+                "claude",
+                "-p",
+                "Use the news-processor subagent to translate, summarize, and "
+                "categorize the new items in data/raw_incoming.json, then "
+                "append them to data/news.json.",
+                "--allowedTools",
+                "Read Write",
+            ],
+            cwd=str(ROOT),
+            env=env,
+            shell=(sys.platform == "win32"),
+            timeout=BATCH_TIMEOUT_SECONDS,
+        )
+        return result.returncode
+    except subprocess.TimeoutExpired:
+        print(f"[run_daily] news-processor exceeded {BATCH_TIMEOUT_SECONDS}s — killing it "
+              f"(likely stuck, e.g. not logged in). Publishing whatever's already checkpointed.")
+        return None
+
+
+def run_processor_and_publish(max_batches=20):
+    """Process the queue in small batches (news-processor caps itself at 10
+    items/run) and publish after every single batch — so if a usage limit
+    or any other error cuts a later batch short, everything translated so
+    far is already live on the dashboard, not stuck waiting on the rest."""
     pending = load_json(RAW_INCOMING_JSON, [])
     if not pending:
         print("[run_daily] no new items — skipping news-processor")
         return
 
-    print(f"[run_daily] {len(pending)} new items — invoking news-processor sub-agent")
-    env = os.environ.copy()
-    env["CLAUDE_CODE_PRINT_BG_WAIT_CEILING_MS"] = "0"  # never give up early — wait until it's actually done
-    result = subprocess.run(
-        [
-            "claude",
-            "-p",
-            "Use the news-processor subagent to translate, summarize, and "
-            "categorize the new items in data/raw_incoming.json, then "
-            "append them to data/news.json.",
-            "--allowedTools",
-            "Read Write",
-        ],
-        cwd=str(ROOT),
-        env=env,
-        shell=(sys.platform == "win32"),
-    )
-    if result.returncode != 0:
-        print(f"[run_daily] WARNING: news-processor exited with code {result.returncode}")
+    for i in range(max_batches):
+        pending = load_json(RAW_INCOMING_JSON, [])
+        if not pending:
+            print("[run_daily] queue fully drained")
+            break
+
+        before = len(pending)
+        print(f"[run_daily] batch {i + 1}: {before} items pending — invoking news-processor")
+        code = run_one_batch()
+
+        print("[run_daily] building dashboard...")
+        build_dashboard.main()
+        print("[run_daily] publishing...")
+        publish_to_github()
+
+        if code != 0:
+            print(f"[run_daily] news-processor stopped (exit {code}) — likely a usage limit. "
+                  f"Progress so far is published; next run resumes automatically.")
+            break
+
+        after = len(load_json(RAW_INCOMING_JSON, []))
+        if after >= before:
+            print("[run_daily] no progress made this batch — stopping to avoid looping forever")
+            break
 
 
 def publish_to_github():
@@ -73,13 +116,7 @@ def main():
     print("[run_daily] fetching Reddit...")
     fetch_reddit.main()
 
-    run_processor_subagent()
-
-    print("[run_daily] building dashboard...")
-    build_dashboard.main()
-
-    print("[run_daily] publishing...")
-    publish_to_github()
+    run_processor_and_publish()
 
     print("[run_daily] done")
 

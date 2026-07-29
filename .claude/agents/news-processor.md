@@ -21,7 +21,14 @@ Each item in the file has: `id`, `url`, `title_original`, `content_snippet`,
 `source`, `source_type`, `category_hint`, `published_at`, `fetched_at`, and
 optionally `score` / `num_comments` (Reddit only).
 
-## Task — for every item in the file
+**Batch cap: process at most 10 items per run.** If there are more than 10
+items in the file, only process the first 10 (oldest `fetched_at` first) and
+leave the rest untouched in `data/raw_incoming.json` for the next run to
+pick up — don't try to do them all in one go. The caller re-invokes you
+repeatedly and publishes after every run, so small fast batches mean
+progress is never lost, even if usage limits cut a later batch short.
+
+## Task — for each item in this run's batch (see cap above)
 
 1. **Translate the title** into natural, clear Arabic (`title_ar`). Accurate
    and readable, not a literal word-for-word translation.
@@ -67,12 +74,13 @@ Append one object per processed item to the array in `data/news.json`
 or rewrite existing entries in that file — only add the newly processed
 ones to the end of the array.**
 
-**Checkpoint every 15 items:** don't wait until every item is processed to
-write. After every 15 processed items (or fewer, at the end), write what
-you have so far to `data/news.json` and also rewrite `data/raw_incoming.json`
-to contain only the items not yet processed. This way, if the run gets
-interrupted, nothing already processed is lost and the next run picks up
-exactly where this one left off.
+**Checkpoint every 5 items:** don't wait until the whole batch (up to 10) is
+processed to write. After every 5 processed items (or fewer, at the end),
+write what you have so far to `data/news.json` and also rewrite
+`data/raw_incoming.json` to contain only the items not yet processed. This
+way, if the run gets interrupted partway (e.g. a usage limit), whatever
+was already processed is saved and gets published — nothing is lost, and
+the next run picks up exactly where this one left off.
 
 Each appended object must have exactly this shape:
 ```json
