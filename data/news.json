@@ -3511,5 +3511,170 @@
     "title_original": "How to safely clean your USB ports",
     "summary_ar": "دليل يشرح الطريقة الصحيحة والآمنة لتنظيف منافذ USB، ويحذر من استخدام بخاخ WD-40 أو أعواد القطن (Q-tips) لهالغرض.",
     "is_review": false
+  },
+  {
+    "id": "650c2606f81c4977",
+    "url": "https://www.engadget.com/2223488/apple-watch-redesign-a-year-away-series-12-ultra-4-updates/",
+    "source": "Engadget",
+    "source_type": "rss",
+    "published_at": "2026-07-26T13:45:27+00:00",
+    "fetched_at": "2026-07-27T04:30:12.091673+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Apple Watch",
+      "آبل"
+    ],
+    "title_ar": "تصميم جديد لساعة آبل ووتش قد يتأخر لسنة كاملة على الأقل",
+    "title_original": "A new look for the Apple Watch may still be at least a year away",
+    "summary_ar": "تقارير تشير إلى إن آبل بتكتفي بتحديث المواصفات الداخلية لساعتي Series 12 وUltra 4 القادمتين، من دون تغيير جذري في التصميم الخارجي. يعني من يترقب شكل جديد كلياً للساعة، عليه ينتظر شوي أكثر.",
+    "is_review": false
+  },
+  {
+    "id": "df04c8b9c1c20a73",
+    "url": "https://www.engadget.com/2219830/phone-battery-powered-off-explained/",
+    "source": "Engadget",
+    "source_type": "rss",
+    "published_at": "2026-07-26T13:30:00+00:00",
+    "fetched_at": "2026-07-27T04:30:12.091678+00:00",
+    "category": "تقنية",
+    "tags": [
+      "بطاريات الهواتف"
+    ],
+    "title_ar": "ليش الهواتف تستهلك من البطارية حتى وهي مقفلة تماماً؟",
+    "title_original": "Why do phones still use battery when powered off?",
+    "summary_ar": "مقال يشرح ليش هاتفك يفقد شحن من بطاريته حتى وهو مغلق بالكامل، بسبب عمليات داخلية بسيطة تستمر تشتغل رغم إيقاف التشغيل.",
+    "is_review": false
+  },
+  {
+    "id": "76ddae11f2b1c580",
+    "url": "https://www.engadget.com/2218723/android-auto-hidden-menu/",
+    "source": "Engadget",
+    "source_type": "rss",
+    "published_at": "2026-07-26T12:30:00+00:00",
+    "fetched_at": "2026-07-27T04:30:12.091684+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Android Auto",
+      "غوغل"
+    ],
+    "title_ar": "Android Auto فيه قائمة مطورين مخفية تقدر توصلها بثواني",
+    "title_original": "Android Auto has a developer menu you can access in seconds",
+    "summary_ar": "تبيّن إن نظام Android Auto فيه قائمة إعدادات مخصصة للمطورين تقدر توصلها بسهولة، وتفتح لك خيارات إضافية لتخصيص تجربة استخدامك للنظام في سيارتك.",
+    "is_review": false
+  },
+  {
+    "id": "4fbca79c509c134a",
+    "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-07-26T16:48:43+00:00",
+    "fetched_at": "2026-07-27T04:30:12.329912+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Apple TV",
+      "Neuromancer",
+      "كوميك كون"
+    ],
+    "title_ar": "أول تريلر لمسلسل Neuromancer من آبل تي في يظهر في SDCC",
+    "title_original": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+    "summary_ar": "خلال فعاليات Comic-Con، طرحت آبل تي في أول تريلر لمسلسلها المقتبس من رواية Neuromancer الكلاسيكية، إلى جانب كشوفات تانية شملت تريلر فيلم Carrie لمايك فلاناغان، الموسم الثاني من Dark Matter، فيلم Matchbox the Movie، وأخبار من مارفل.",
+    "is_review": false
+  },
+  {
+    "id": "3dbb87c9c5210cc3",
+    "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-07-26T08:09:00+00:00",
+    "fetched_at": "2026-07-27T04:30:12.635677+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "معدات تخييم"
+    ],
+    "title_ar": "أفضل حصائر (فرشات) التخييم المختبرة ميدانياً لسنة 2026",
+    "title_original": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+    "summary_ar": "Wired اختارت أفضل حصائر التخييم من ماركات Nemo وTherm-a-Rest وGossamer Gear، وكلها تستخدم مواد عالية التقنية عشان توفر لك نوم مريح وأنت برّه البيت.",
+    "is_review": true
+  },
+  {
+    "id": "447cac052e112176",
+    "url": "https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-07-26T08:00:00+00:00",
+    "fetched_at": "2026-07-27T04:30:12.635685+00:00",
+    "category": "تقنية",
+    "tags": [
+      "هواتف ذكية"
+    ],
+    "title_ar": "كل الطرق اللي تقدر فيها تخلي القراءة على جوالك أسهل",
+    "title_original": "All the Ways You Can Make Reading on Your Phone Easier",
+    "summary_ar": "مقال يجمع نصائح عملية لتقليل إجهاد العين وتحسين تجربة القراءة الطويلة على شاشة جوالك.",
+    "is_review": false
+  },
+  {
+    "id": "79db9814a97d9ffd",
+    "url": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-07-26T07:45:00+00:00",
+    "fetched_at": "2026-07-27T04:30:12.635690+00:00",
+    "category": "تقنية",
+    "tags": [
+      "سيارات كهربائية",
+      "الشبكة الكهربائية"
+    ],
+    "title_ar": "حل مشاكل الشبكة الكهربائية ممكن يكون متوقف عندك في المرآب",
+    "title_original": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
+    "summary_ar": "عدد متزايد من السيارات الكهربائية صار قادر يوفر طاقة احتياطية في وقت أمريكا محتاجة فيه طاقة إضافية أكثر من أي وقت مضى.",
+    "is_review": false
+  },
+  {
+    "id": "04090e66de7ec8c0",
+    "url": "https://www.wired.com/story/best-motorola-phones/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-07-26T07:34:00+00:00",
+    "fetched_at": "2026-07-27T04:30:12.635696+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Motorola"
+    ],
+    "title_ar": "أفضل هواتف موتورولا، من Razr لين Moto G (2026)",
+    "title_original": "The Best Motorola Phones, From Razr to Moto G (2026)",
+    "summary_ar": "دليل من Wired يستعرض أفضل هواتف موتورولا المتوفرة حالياً، ويوضح إن أسعارها المعقولة وتصاميمها الملونة وبرمجياتها البسيطة تخليها خيار زين وبسعر مناسب لمحبي أندرويد.",
+    "is_review": true
+  },
+  {
+    "id": "a5055b215d74ed7c",
+    "url": "https://www.wired.com/story/best-subscription-free-security-cameras/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-07-26T07:00:00+00:00",
+    "fetched_at": "2026-07-27T04:30:12.635701+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "كاميرات مراقبة منزلية"
+    ],
+    "title_ar": "أفضل كاميرات مراقبة منزلية بدون اشتراك شهري",
+    "title_original": "The Best Subscription-Free Home Security Cameras I've Tried",
+    "summary_ar": "ما تحتاج ترفع فيديو مراقبتك للسحاب أو تدفع اشتراك شهري عشان تأمّن بيتك — Wired جربت واستعرضت أفضل كاميرات المراقبة المنزلية اللي تسجل محلياً بدون اشتراكات.",
+    "is_review": true
+  },
+  {
+    "id": "2ddceede9d4028ee",
+    "url": "https://www.wired.com/gallery/best-gopro-hero-camera/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-07-26T07:00:00+00:00",
+    "fetched_at": "2026-07-27T04:30:12.635707+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "GoPro"
+    ],
+    "title_ar": "أفضل كاميرات GoPro لسنة 2026: مدمجة، اقتصادية، وإكسسوارات",
+    "title_original": "Best GoPro Camera (2026): Compact, Budget, Accessories",
+    "summary_ar": "دليل شامل من Wired يرشدك لأفضل كاميرات GoPro بحسب احتياجك، سواء تدور على موديل مدمج، خيار اقتصادي، أو إكسسوارات وحيل برمجية مخفية تفيدك.",
+    "is_review": true
   }
 ]
