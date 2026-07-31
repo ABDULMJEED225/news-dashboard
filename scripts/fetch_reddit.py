@@ -9,7 +9,7 @@ fetch_rss.py.
 """
 import os
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import requests
 from dotenv import load_dotenv
@@ -19,6 +19,7 @@ from common import RAW_INCOMING_JSON, existing_ids, load_json, load_sources, mak
 load_dotenv()
 
 USER_AGENT = "news-agent/1.0 (Windows; personal use dashboard)"
+MAX_AGE_HOURS = 24
 
 
 def get_oauth_token():
@@ -62,6 +63,8 @@ def fetch_subreddit(source: dict, token, min_score: int, seen_ids: set) -> list:
         print(f"[reddit] FAILED {source['name']}: {e}", file=sys.stderr)
         return items
 
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
+
     for child in children:
         post = child.get("data", {})
         if post.get("stickied"):
@@ -71,6 +74,9 @@ def fetch_subreddit(source: dict, token, min_score: int, seen_ids: set) -> list:
         permalink = post.get("permalink")
         title = post.get("title")
         if not permalink or not title:
+            continue
+        published_at = datetime.fromtimestamp(post.get("created_utc", 0), tz=timezone.utc)
+        if published_at < cutoff:
             continue
         url_full = f"https://www.reddit.com{permalink}"
         item_id = make_id(url_full)
@@ -88,9 +94,7 @@ def fetch_subreddit(source: dict, token, min_score: int, seen_ids: set) -> list:
                 "source": source["name"],
                 "source_type": "reddit",
                 "category_hint": source["domain"],
-                "published_at": datetime.fromtimestamp(
-                    post.get("created_utc", 0), tz=timezone.utc
-                ).isoformat(),
+                "published_at": published_at.isoformat(),
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
                 "score": post.get("score", 0),
                 "num_comments": post.get("num_comments", 0),

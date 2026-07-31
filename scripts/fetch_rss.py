@@ -5,7 +5,7 @@ data/raw_incoming.json) to data/raw_incoming.json for the news-processor
 sub-agent to translate/summarize/categorize.
 """
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from time import mktime
 
 import feedparser
@@ -13,6 +13,7 @@ import feedparser
 from common import RAW_INCOMING_JSON, existing_ids, load_json, load_sources, make_id, save_json
 
 MAX_PER_FEED = 8
+MAX_AGE_HOURS = 24
 
 
 def parse_entry_date(entry):
@@ -39,6 +40,8 @@ def fetch_feed(source: dict, seen_ids: set) -> list:
         print(f"[rss] FAILED {source['name']}: {e}", file=sys.stderr)
         return items
 
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
+
     for entry in parsed.entries[:MAX_PER_FEED]:
         url = getattr(entry, "link", None)
         title = getattr(entry, "title", None)
@@ -46,6 +49,9 @@ def fetch_feed(source: dict, seen_ids: set) -> list:
             continue
         item_id = make_id(url)
         if item_id in seen_ids:
+            continue
+        published_at = parse_entry_date(entry)
+        if datetime.fromisoformat(published_at) < cutoff:
             continue
         seen_ids.add(item_id)
         items.append(
@@ -57,7 +63,7 @@ def fetch_feed(source: dict, seen_ids: set) -> list:
                 "source": source["name"],
                 "source_type": "rss",
                 "category_hint": source["domain"],
-                "published_at": parse_entry_date(entry),
+                "published_at": published_at,
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
         )
