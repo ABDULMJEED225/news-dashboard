@@ -12,7 +12,7 @@ import feedparser
 
 from common import RAW_INCOMING_JSON, existing_ids, load_json, load_sources, make_id, save_json
 
-MAX_PER_FEED = 8
+MAX_PER_FEED = 20
 MAX_AGE_HOURS = 24
 
 
