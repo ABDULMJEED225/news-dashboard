@@ -3220,7 +3220,7 @@
     "title_ar": "فيلم Champagne and Bullets ينتمي لقائمة أسوأ الأفلام على الإطلاق",
     "title_original": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
     "summary_ar": "الكاتب يستعرض فيلم Champagne and Bullets (المعروف أيضاً باسم GetEven) كواحد من أفلام \"السيئة لدرجة الحلاوة\" اللي يجمع بين طموح كبير وإمكانيات محدودة جداً.",
-    "is_review": true
+    "is_review": false
   },
   {
     "id": "7c4ba00e1d4e7840",
@@ -16490,6 +16490,2417 @@
     "title_ar": "أبرز أخبار وإعلانات عرض THQ Nordic 2026",
     "title_original": "THQ Nordic Showcase 2026: All The News, Trailers, And Reveals",
     "summary_ar": "THQ Nordic قدّمت عرضها السنوي 2026 بمجموعة تريلرات وإعلانات لألعاب من استوديوهاتها المختلفة، أغلبها ألعاب نيش بعيدة عن الأسماء الكبيرة. من أبرز الإعلانات لعبة Let's Sing 2027 و Let's Sing ABBA اللي فيها 35 أغنية، مع حزمة ABBA إضافية تنزل في 3 نوفمبر بمناسبة الذكرى الخمسين لأغنية Dancing Queen.",
+    "is_review": false
+  },
+  {
+    "id": "f58c33a6d49d1e78",
+    "url": "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
+    "source": "GameSpot",
+    "source_type": "rss",
+    "published_at": "2026-08-07T15:35:00+00:00",
+    "fetched_at": "2026-08-08T12:38:50.289393+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Take-Two",
+      "GTA 6",
+      "الذكاء الاصطناعي"
+    ],
+    "title_ar": "رئيس Take-Two: أدوات الذكاء الاصطناعي مو رح تستبدل أحد",
+    "title_original": "AI Tools Aren't Going To Replace Anyone, Says GTA 6 Publisher Boss",
+    "summary_ar": "ستروس زيلنيك، رئيس تايك-تو (الشركة الأم لـ Rockstar وناشرة GTA 6)، قال في مكالمة المستثمرين الأخيرة إن الذكاء الاصطناعي مو رح يستبدل موظفيهم الـ13 ألف، وإن الشركة تركز على الإبداع أولاً. أضاف إن الذكاء الاصطناعي ممكن يرفع جودة الألعاب لكن مو بالضرورة يخفّض تكلفة التطوير.",
+    "is_review": false
+  },
+  {
+    "id": "ab271f5b75dbebe3",
+    "url": "https://www.gamespot.com/articles/mlb-the-show-26-celebrates-the-trade-deadlines-biggest-villain/",
+    "source": "GameSpot",
+    "source_type": "rss",
+    "published_at": "2026-08-07T14:00:43+00:00",
+    "fetched_at": "2026-08-08T12:38:50.289408+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "MLB The Show 26"
+    ],
+    "title_ar": "MLB The Show 26 يحتفل بأكبر \"شرير\" في صفقات الانتقالات بمحتوى جديد",
+    "title_original": "MLB The Show 26 Celebrates The Trade Deadline's Biggest Villain",
+    "summary_ar": "MLB The Show 26 أطلق برنامج بطاقات جديد باسم New Threads Trade Deadline يحتفي بانتقال اللاعب الحقيقي تاريك سكوبال لفريق الدودجرز، ببطاقة مصنّفة 99 من 100 في وضع Diamond Dynasty، إضافة لبطاقات أخرى بتقييمات عالية زي جو أديل وتايلور وارد.",
+    "is_review": false
+  },
+  {
+    "id": "9c79b3c82c6f9603",
+    "url": "https://www.pcgamer.com/games/action/tencents-cyberpunk-rival-to-grand-theft-auto-is-in-trouble-as-its-developer-lays-off-80-people/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-08T08:00:00+00:00",
+    "fetched_at": "2026-08-08T12:38:50.957707+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Tencent",
+      "Last Sentinel"
+    ],
+    "title_ar": "استوديو تينسنت ينهي خدمة 80 موظف واللعبة المنافسة لـ GTA في مأزق",
+    "title_original": "Tencent's cyberpunk rival to Grand Theft Auto is in trouble as its developer lays off 80 people",
+    "summary_ar": "استوديو Lightspeed LA التابع لتينسنت سرّح 80 موظف وأعلن إنه بيغيّر \"الاتجاه الإبداعي والتطويري\" للعبة Last Sentinel، اللي كانت مطروحة كمنافس محتمل لـ GTA بأجواء سايبربانك. الخبر يشير لمشاكل في مسار اللعبة الطموحة.",
+    "is_review": false
+  },
+  {
+    "id": "decb75a58609a21a",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-netflix-deal-forces-us-to-ask-can-you-pirate-an-advertisement/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-07T20:52:49+00:00",
+    "fetched_at": "2026-08-08T12:38:50.957718+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "GTA 6",
+      "Netflix",
+      "Rockstar"
+    ],
+    "title_ar": "صفقة GTA 6 مع نتفليكس تطرح سؤال غريب: هل تقدر \"تقرصن\" إعلان؟",
+    "title_original": "GTA 6's Netflix deal forces us to ask: can you pirate an advertisement?",
+    "summary_ar": "مقال يناقش الجانب الطريف من تعاون Rockstar مع نتفليكس لعرض محتوى ترويجي لـ GTA 6، حيث صار الناس يفكرون في طرق \"لتحميل\" إعلان اللعبة نفسه بدل مشاهدته عبر الخدمة. يعكس مدى حماس الجمهور لأي شيء متعلق باللعبة المنتظرة.",
+    "is_review": false
+  },
+  {
+    "id": "2b4fce3af83b5ed8",
+    "url": "https://www.pcgamer.com/games/action/fromsoftware-sleuth-unearths-earliest-footage-of-demons-souls-to-date-a-prototype-with-a-first-person-camera-mode/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-07T20:06:12+00:00",
+    "fetched_at": "2026-08-08T12:38:50.957724+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Demon's Souls",
+      "FromSoftware"
+    ],
+    "title_ar": "اكتشاف أقدم لقطات مسجلة من Demon's Souls بمنظور الشخص الأول",
+    "title_original": "FromSoftware sleuth unearths earliest footage of Demon's Souls to date: A prototype with a first person camera mode",
+    "summary_ar": "باحث متخصص في تاريخ FromSoftware عثر على أقدم لقطات معروفة حتى الآن من نموذج Demon's Souls الأولي، وتظهر وضع كاميرا بمنظور الشخص الأول كان مخطط له قبل ما يُلغى من اللعبة النهائية.",
+    "is_review": false
+  },
+  {
+    "id": "1bae27308f19a0d5",
+    "url": "https://www.pcgamer.com/games/baldurs-gate/bioware-veteran-says-baldurs-gate-3-was-such-a-great-sequel-because-it-didnt-try-to-be-too-much-like-baldurs-gate-2/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-07T18:59:51+00:00",
+    "fetched_at": "2026-08-08T12:38:50.957735+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Baldur's Gate 3",
+      "BioWare",
+      "Larian Studios"
+    ],
+    "title_ar": "قدامي BioWare: نجاح Baldur's Gate 3 لأنه ما حاول يقلّد الجزء الثاني",
+    "title_original": "BioWare veteran says Baldur's Gate 3 was such a great sequel because it didn't try to be too much like Baldur's Gate 2",
+    "summary_ar": "مارك داراه، أحد قدامى مطوري BioWare، يرى إن نجاح Baldur's Gate 3 يرجع لكون استوديو Larian ما خاف يشق طريقه الخاص بدل تقليد أسلوب الجزء الثاني الكلاسيكي حرفيًا.",
+    "is_review": false
+  },
+  {
+    "id": "5c15d5a1d3435493",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/even-with-an-usd80-price-tag-grand-theft-auto-6-will-be-an-incredible-bargain-take-two-boss-says/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-07T18:54:24+00:00",
+    "fetched_at": "2026-08-08T12:38:50.957744+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "GTA 6",
+      "Take-Two",
+      "Strauss Zelnick"
+    ],
+    "title_ar": "رئيس Take-Two: حتى بسعر 80 دولار، GTA 6 بتكون صفقة رابحة",
+    "title_original": "Even with an $80 price tag, 'Grand Theft Auto 6 will be an incredible bargain,' Take-Two boss says",
+    "summary_ar": "ستروس زيلنيك، رئيس Take-Two، يقول إن سعر 80 دولار المتوقع لـ GTA 6 بيكون \"صفقة رابحة\" لأن جودة التجربة بتبرر السعر بشكل كامل. تصريح يزيد التوقعات حول اللعبة الأكثر انتظارًا حاليًا.",
+    "is_review": false
+  },
+  {
+    "id": "87540e8f2769ecbc",
+    "url": "https://www.pcgamer.com/gaming-industry/take-two-ceo-says-he-expects-the-games-industry-to-be-in-commercial-streaming-mode-within-3-years-which-is-great-news-if-you-hate-owning-things/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-07T17:05:13+00:00",
+    "fetched_at": "2026-08-08T12:38:50.957751+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Take-Two",
+      "Strauss Zelnick",
+      "السحابة"
+    ],
+    "title_ar": "رئيس Take-Two يتوقع دخول صناعة الألعاب \"وضع البث التجاري\" خلال 3 سنوات",
+    "title_original": "Take-Two CEO says he expects the games industry to be in 'commercial streaming mode within 3 years,' which is great news if you hate owning things",
+    "summary_ar": "ستروس زيلنيك، رئيس Take-Two (الشركة الأم لـ Rockstar)، يتوقع إن صناعة الألعاب بتدخل \"وضع البث التجاري\" خلال ثلاث سنوات، ويرى إن الألعاب السحابية بتوسّع قاعدة العملاء رغم ارتفاع أسعار الأجهزة.",
+    "is_review": false
+  },
+  {
+    "id": "f69329b72b7dd438",
+    "url": "https://www.pcgamer.com/games/puzzle/big-walk-patch-addresses-voice-volume-complaints-with-restraint-we-consider-it-an-important-part-of-the-games-design-that-you-can-only-hear-players-who-are-close-to-you/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-07T15:55:09+00:00",
+    "fetched_at": "2026-08-08T12:38:50.957760+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Big Walk"
+    ],
+    "title_ar": "تحديث Big Walk يعالج شكاوى مستوى الصوت لكن بدون تغيير جذري",
+    "title_original": "Big Walk patch addresses voice volume complaints with restraint: 'We consider it an important part of the game's design that you can only hear players who are close to you'",
+    "summary_ar": "تحديث جديد للعبة Big Walk رفع مستوى الأصوات الهادئة بشكل عام، لكن المطورين تعمدوا ما يخلونك تسمع لاعبين بعيدين عنك، لأنهم يعتبرون هالشيء جزء أساسي من تصميم اللعبة.",
+    "is_review": false
+  },
+  {
+    "id": "5c949b53a96efd77",
+    "url": "https://www.pcgamer.com/games/japan-has-reportedly-asked-the-us-to-stop-using-mario-pokemon-and-others-in-social-media-posts/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-07T15:25:32+00:00",
+    "fetched_at": "2026-08-08T12:38:50.957768+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Nintendo",
+      "Mario",
+      "Pokemon"
+    ],
+    "title_ar": "اليابان تطلب من أمريكا التوقف عن استخدام ماريو وبوكيمون بمنشورات حكومية",
+    "title_original": "Japan has reportedly asked the US to stop using Mario, Pokemon, and others in social media posts",
+    "summary_ar": "وزارة الخارجية اليابانية عبّرت عن قلقها من استخدام الحكومة الأمريكية لشخصيات ماريو وبوكيمون وغيرها في منشوراتها على السوشال ميديا، وما الأمر مقتصر بس على حقوق النشر، بل قلق على سمعة هذي العلامات التجارية اليابانية العريقة.",
+    "is_review": false
+  },
+  {
+    "id": "0536e1bdb0f134c3",
+    "url": "https://www.pcgamer.com/gaming-industry/take-two-boss-dismisses-hand-wringing-over-the-end-of-disc-based-games-our-business-is-well-over-90-percent-digitally-distributed-as-it-is/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:35:05+00:00",
+    "fetched_at": "2026-08-08T12:38:50.957777+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Take-Two",
+      "Strauss Zelnick"
+    ],
+    "title_ar": "رئيس Take-Two: أكثر من 90% من مبيعاتنا رقمية أصلاً، ما فيه داعي للقلق من نهاية الأقراص",
+    "title_original": "Take-Two boss dismisses hand-wringing over the end of disc-based games: 'Our business is well over 90% digitally distributed as it is'",
+    "summary_ar": "ستروس زيلنيك يقول إن أكثر من 90% من مبيعات Take-Two رقمية أصلاً، وإن الشركة رح تستمر تصدر نسخ فعلية \"بين فترة وأخرى\" بس عصر الأقراص انتهى عمليًا. تعليق يأتي وسط نقاش الصناعة حول التحول الكامل للرقمنة.",
+    "is_review": false
+  },
+  {
+    "id": "df21980d306f015f",
+    "url": "https://www.pcgamer.com/games/fps/overwatchs-new-mech-hero-is-the-sword-and-board-sequel-to-d-va-except-her-code-isnt-a-plate-of-spaghetti-under-the-hood/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:00:36+00:00",
+    "fetched_at": "2026-08-08T12:38:50.957786+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Overwatch",
+      "Blizzard",
+      "D.Mon"
+    ],
+    "title_ar": "بليزارد تكشف عن بطل ميكا جديد في Overwatch اسمه D.Mon",
+    "title_original": "Overwatch's new mech hero is the sword-and-board sequel to D.Va, except her code isn't 'a plate of spaghetti' under the hood",
+    "summary_ar": "بليزارد كشفت عن D.Mon، بطلة ميكا جديدة في Overwatch تعتبر امتداد لفكرة D.Va لكن بأسلوب سيف ودرع، وأكدت إنهم بنوا كود اللعبة الجديد بطريقة أنظف تقنيًا هالمرة عشان يتجنبوا مشاكل التصميم القديمة.",
+    "is_review": false
+  },
+  {
+    "id": "ea259ac815d88888",
+    "url": "https://www.pcgamer.com/hardware/launch-day-performance-issues-and-forced-logins-take-another-victim-marvel-tokon-fighting-souls-sees-mixed-steam-rating-especially-among-linux-users/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-07T12:58:15+00:00",
+    "fetched_at": "2026-08-08T12:38:50.957791+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Marvel Tokon: Fighting Souls",
+      "Steam",
+      "Linux"
+    ],
+    "title_ar": "مشاكل الأداء والتسجيل الإجباري تضرب Marvel Tōkon: Fighting Souls عند الإطلاق",
+    "title_original": "Launch day performance issues and forced logins take another victim: Marvel Tōkon: Fighting Souls sees mixed Steam rating, especially among Linux users",
+    "summary_ar": "لعبة Marvel Tōkon: Fighting Souls حصلت على تقييم \"متباين\" في ستيم يوم إطلاقها بسبب مشاكل أداء وتسجيل دخول إجباري، وتأثر لاعبو لينكس بشكل خاص أكثر من غيرهم.",
+    "is_review": false
+  },
+  {
+    "id": "2c361ca7d51d00d9",
+    "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g16-2026-review/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-07T12:49:06+00:00",
+    "fetched_at": "2026-08-08T12:38:50.957796+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Asus ROG Zephyrus G16"
+    ],
+    "title_ar": "مراجعة لابتوب Asus ROG Zephyrus G16 (2026)",
+    "title_original": "Asus ROG Zephyrus G16 (2026) review",
+    "summary_ar": "لابتوب Asus ROG Zephyrus G16 الجديد صار أفضل من أي وقت مضى من ناحية البناء الرفيع، لكن أزمة أسعار الذاكرة العالمية رفعت سعره وخلته أقل تنافسية في فئته.",
+    "is_review": true
+  },
+  {
+    "id": "6f6fc40ad168f359",
+    "url": "https://www.eurogamer.net/silent-hill-2-remake-performance-mode-bugs",
+    "source": "Eurogamer",
+    "source_type": "rss",
+    "published_at": "2026-08-08T08:20:31+00:00",
+    "fetched_at": "2026-08-08T12:38:51.737189+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Silent Hill 2",
+      "Konami",
+      "PS5"
+    ],
+    "title_ar": "كونامي تحقق في مشاكل وضع الأداء بعد آخر تحديث لـ Silent Hill 2 ريميك",
+    "title_original": "Konami investigating Silent Hill 2 Performance Mode issues after latest PS5 patch",
+    "summary_ar": "كونامي أكدت إنها تحقق في مشاكل جديدة ظهرت في وضع الأداء (Performance Mode) على PS5 و PS5 Pro بعد تحديث 1.07 الأخير لريميك Silent Hill 2. التحديث اللي كان المفروض يحسّن اللعبة سبب مشاكل إضافية للاعبين.",
+    "is_review": false
+  },
+  {
+    "id": "146ecfb65fbd32a2",
+    "url": "https://www.eurogamer.net/demons-souls-cut-first-person-mode",
+    "source": "Eurogamer",
+    "source_type": "rss",
+    "published_at": "2026-08-08T07:45:14+00:00",
+    "fetched_at": "2026-08-08T12:38:51.737199+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Demon's Souls",
+      "FromSoftware"
+    ],
+    "title_ar": "لقطات جديدة مكتشفة تكشف وضع الشخص الأول الملغى من Demon's Souls",
+    "title_original": "Newly discovered Demon's Souls prototype footage reveals a scrapped first-person mode",
+    "summary_ar": "لقطات مسربة من عرض تقديمي لعام 2007 كشفت إن Demon's Souls كان فيها خيار للعب بمنظور الشخص الأول تم إلغاؤه لاحقًا. كشف نادر عن مرحلة مبكرة من تطوير اللعبة الكلاسيكية.",
+    "is_review": false
+  },
+  {
+    "id": "b421222c58979d37",
+    "url": "https://www.eurogamer.net/stalker-2-cost-of-hope-dlc-showcase",
+    "source": "Eurogamer",
+    "source_type": "rss",
+    "published_at": "2026-08-08T06:01:21+00:00",
+    "fetched_at": "2026-08-08T12:38:51.737212+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Stalker 2",
+      "GSC Game World"
+    ],
+    "title_ar": "GSC تكشف فيديو جديد عن DLC ستوكر 2 ويوريك محطة تشيرنوبيل",
+    "title_original": "Stalker 2 is finally letting us explore the Chornobyl Power Plant",
+    "summary_ar": "GSC Game World أطلقت فيديو استعراضي جديد يعرض محتوى الـ DLC القادم لستوكر 2 باسم Cost of Hope، اللي رح يخلي اللاعبين أخيرًا يستكشفون محطة تشيرنوبيل النووية داخل اللعبة.",
+    "is_review": false
+  },
+  {
+    "id": "8052c9e376770aa5",
+    "url": "https://www.eurogamer.net/take-two-strauss-zelnick-not-concerned-rockstar-union-busting-gta-6",
+    "source": "Eurogamer",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:22:27+00:00",
+    "fetched_at": "2026-08-08T12:38:51.737224+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Take-Two",
+      "Rockstar",
+      "GTA 6"
+    ],
+    "title_ar": "رئيس Take-Two: قضية العمالة في Rockstar مو رح تأثر على إطلاق GTA 6",
+    "title_original": "Take-Two boss \"not in the least\" concerned bad press around Rockstar's employment tribunal will affect GTA 6 launch",
+    "summary_ar": "ستروس زيلنيك قال إنه \"مو قلقان أبدًا\" من إن التغطية السلبية حول اتهامات محاربة النقابات العمالية داخل Rockstar بتأثر على إطلاق GTA 6. تصريح يجي وسط ضغوط إعلامية على الشركة بخصوص أوضاع العمل.",
+    "is_review": false
+  },
+  {
+    "id": "01f7778d2719b498",
+    "url": "https://gamerant.com/new-steam-roguelike-extraction-game-repo-grain-rot/",
+    "source": "Game Rant",
+    "source_type": "rss",
+    "published_at": "2026-08-08T09:30:14+00:00",
+    "fetched_at": "2026-08-08T12:38:53.448737+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Steam",
+      "روغلايك"
+    ],
+    "title_ar": "لعبة روغلايك جديدة على ستيم تجمع بين الاستخراج وبناء القاعدة على طريقة REPO",
+    "title_original": "New Multiplayer Extraction Roguelike on Steam is Like REPO With Base-Building",
+    "summary_ar": "لعبة جديدة على ستيم تجمع بين أسلوب الاستخراج التعاوني الشبيه بـ REPO وعنصر بناء القاعدة، وصارت خيار جديد لمحبي هذا النوع من الألعاب.",
+    "is_review": false
+  },
+  {
+    "id": "bed243b2d4aee7d4",
+    "url": "https://www.eurogamer.net/club-soko-impressions-cartoonishly-dark-sokoban-puzzle-game",
+    "source": "Eurogamer",
+    "source_type": "rss",
+    "published_at": "2026-08-08T06:20:57+00:00",
+    "fetched_at": "2026-08-08T12:38:51.737206+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Club Soko"
+    ],
+    "title_ar": "انطباعات: Club Soko لغز Sokoban ساخر ومظلم بأجواء نادي ليلي",
+    "title_original": "Club Soko is cartoonishly dark and splattered with beer - and it's a wonderful puzzler, too",
+    "summary_ar": "انطباعات أولية عن Club Soko، لعبة ألغاز من نوع Sokoban (دفع الصناديق) لكن بأجواء نادي ليلي مظلم وساخر بدل المستودع التقليدي. الكاتب يشيد بذكاء تصميم الألغاز رغم بساطة الفكرة الأساسية.",
+    "is_review": true
+  },
+  {
+    "id": "c64872593e6752ff",
+    "url": "https://www.rockpapershotgun.com/space-news-network-is-no-mans-sky-but-youre-a-roving-journalist-blasting-bandits-while-trying-to-keep-your-subscribers-happy",
+    "source": "Rock Paper Shotgun",
+    "source_type": "rss",
+    "published_at": "2026-08-07T14:02:00+00:00",
+    "fetched_at": "2026-08-08T12:38:52.263177+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Space News Network",
+      "No Man's Sky"
+    ],
+    "title_ar": "Space News Network: تجربة أشبه بـ No Man's Sky لكن بدور صحفي فضائي متجول",
+    "title_original": "Space News Network is No Man's Sky but you're a roving journalist, blasting bandits while trying to keep your subscribers happy",
+    "summary_ar": "لعبة استكشاف جديدة اسمها Space News Network تحاكي أجواء No Man's Sky، لكن اللاعب فيها يتقمص دور صحفي فضائي يجمع الأخبار بين الكواكب، ويواجه قراصنة الفضاء والمخلوقات الغريبة بحثًا عن قصة مثيرة تكسبه متابعين.",
+    "is_review": true
+  },
+  {
+    "id": "c68945da99b284c7",
+    "url": "https://www.polygon.com/nintendo-switch-2-fire-emblem-fortunes-weave-direct-switchboard/",
+    "source": "Polygon",
+    "source_type": "rss",
+    "published_at": "2026-08-08T09:00:12+00:00",
+    "fetched_at": "2026-08-08T12:38:55.108164+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Nintendo Switch 2",
+      "Fire Emblem: Fortune's Weave"
+    ],
+    "title_ar": "مستقبل نينتندو سويتش 2 في 2026 يتغير بعد عرض Fire Emblem: Fortune's Weave",
+    "title_original": "Nintendo Switch 2's 2026 Looks Very Different After Fire Emblem: Fortune's Weave Direct",
+    "summary_ar": "بعد عرض Direct قوي لـ Fire Emblem: Fortune's Weave هالأسبوع، صار خط إصدارات نينتندو سويتش 2 لبقية 2026 يبدو أقوى بكثير مما كان متوقع.",
+    "is_review": false
+  },
+  {
+    "id": "f6842eaf397afb24",
+    "url": "https://www.polygon.com/echobreaker-steam-impressions/",
+    "source": "Polygon",
+    "source_type": "rss",
+    "published_at": "2026-08-08T07:00:12+00:00",
+    "fetched_at": "2026-08-08T12:38:55.108180+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Echobreaker",
+      "Steam"
+    ],
+    "title_ar": "Echobreaker: لعبة ستيم الجديدة اللي تتحداك تكسر كل قاعدة وكل مستوى",
+    "title_original": "Wild New Steam Game Dares You To Break Every Rule — and Every Level",
+    "summary_ar": "Echobreaker لعبة إندي مستقبلية على ستيم تخليك تكمل مسارات بأسرع وقت ممكن، بس السحر الحقيقي إنك تقدر \"تكسر\" كل مستوى وتلقى طرق غير تقليدية تتغلب فيها على وقتك القياسي.",
+    "is_review": true
+  },
+  {
+    "id": "499387ea3cc694d5",
+    "url": "https://www.polygon.com/hell-is-us-game-pass-hit/",
+    "source": "Polygon",
+    "source_type": "rss",
+    "published_at": "2026-08-07T21:00:12+00:00",
+    "fetched_at": "2026-08-08T12:38:55.108190+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Hell Is Us",
+      "Xbox Game Pass"
+    ],
+    "title_ar": "Hell Is Us، أفضل سولزلايك فاتك في 2025، يتحول لنجاح مفاجئ على Xbox Game Pass",
+    "title_original": "2025's Best Soulslike You Missed Is Officially a Sleeper Hit on Xbox Game Pass",
+    "summary_ar": "لعبة Hell Is Us، اللي تعتبر من أفضل ألعاب السولزلايك في 2025 رغم إطلاقها التعيس، لقت فرصة ثانية وصارت نجاح مفاجئ بعد ما انضمت لخدمة Xbox Game Pass.",
+    "is_review": false
+  },
+  {
+    "id": "e23565b5d8d6a4d2",
+    "url": "https://www.polygon.com/new-soulslike-memoirium-on-steam/",
+    "source": "Polygon",
+    "source_type": "rss",
+    "published_at": "2026-08-07T20:00:12+00:00",
+    "fetched_at": "2026-08-08T12:38:55.108195+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Memoirium",
+      "Steam"
+    ],
+    "title_ar": "Memoirium: لعبة أكشن-آر بي جي جديدة على ستيم تمزج بين Dark Souls وInception وBackrooms",
+    "title_original": "Memoirium combines Dark Souls, Inception, and Backrooms in Steam's Coolest New Action RPG",
+    "summary_ar": "لعبة أكشن آر بي جي جديدة اسمها Memoirium نزلت على ستيم، وتجمع بين أجواء Dark Souls القتالية، وفكرة الأحلام المتداخلة من فيلم Inception، وغموض عوالم Backrooms.",
+    "is_review": false
+  },
+  {
+    "id": "12cf02fbb4c5ca59",
+    "url": "https://www.polygon.com/video/contrapoints-devours-forbidden-decadent-games-shelf-quest/",
+    "source": "Polygon",
+    "source_type": "rss",
+    "published_at": "2026-08-07T19:00:20+00:00",
+    "fetched_at": "2026-08-08T12:38:55.108200+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "ContraPoints"
+    ],
+    "title_ar": "كونترابوينتس تستعرض شغفها بالألعاب الممنوعة والمثيرة",
+    "title_original": "Contrapoints devours forbidden, decadent games | Shelf Quest",
+    "summary_ar": "في حلقة جديدة من برنامج Shelf Quest، تتحدث اليوتيوبرز ناتالي وين (المعروفة بكونترابوينتس) عن علاقتها بالألعاب منذ الطفولة، من The Sims وAge of Empires إلى ألعاب الرعب زي Resident Evil Requiem، وتزور متجر ألعاب قديم في نيويورك لاستعادة ذكرياتها.",
+    "is_review": false
+  },
+  {
+    "id": "adb0d3c882ae0083",
+    "url": "https://www.nintendolife.com/news/2026/08/fire-emblem-fortunes-weave-will-allow-you-to-strategise-with-mouse-controls",
+    "source": "Nintendo Life",
+    "source_type": "rss",
+    "published_at": "2026-08-08T03:30:00+00:00",
+    "fetched_at": "2026-08-08T12:38:55.485302+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Fire Emblem: Fortune's Weave",
+      "Nintendo Switch 2",
+      "Joy-Con 2"
+    ],
+    "title_ar": "Fire Emblem: Fortune's Weave يدعم التحكم بالماوس عبر Joy-Con 2",
+    "title_original": "Fire Emblem: Fortune's Weave Will Allow You To Strategise With Mouse Controls",
+    "summary_ar": "نينتندو أكدت إن لعبة Fire Emblem: Fortune's Weave القادمة رح تدعم التحكم بأسلوب الماوس عبر أذرع Joy-Con 2، بحيث يقدر اللاعب يحرك وحداته على أرض المعركة بشكل أكثر سلاسة ودقة.",
+    "is_review": false
+  },
+  {
+    "id": "3849cdaf9c978945",
+    "url": "https://www.nintendolife.com/news/2026/08/final-fantasy-vii-revelation-new-look-announced-for-opening-night-live",
+    "source": "Nintendo Life",
+    "source_type": "rss",
+    "published_at": "2026-08-08T02:30:00+00:00",
+    "fetched_at": "2026-08-08T12:38:55.485313+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Final Fantasy VII Revelation",
+      "Gamescom",
+      "Square Enix"
+    ],
+    "title_ar": "لمحة جديدة من Final Fantasy VII Revelation في Opening Night Live بجيمزكوم",
+    "title_original": "Final Fantasy VII Revelation \"New Look\" Announced For Opening Night Live",
+    "summary_ar": "سكوير إنكس أعلنت إنها بتكشف لمحة جديدة عن Final Fantasy VII Revelation خلال فعالية Opening Night Live في معرض Gamescom اللي بينعقد في ألمانيا هالشهر.",
+    "is_review": false
+  },
+  {
+    "id": "8da97582d2993910",
+    "url": "https://www.nintendolife.com/guides/duskbloods-network-test-sign-up-dates-start-time-access",
+    "source": "Nintendo Life",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:45:00+00:00",
+    "fetched_at": "2026-08-08T12:38:55.485336+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "The Duskbloods",
+      "FromSoftware",
+      "Nintendo Switch 2"
+    ],
+    "title_ar": "مواعيد التسجيل في اختبار Duskbloods الشبكي وكيفية المشاركة",
+    "title_original": "Guide: The Duskbloods Network Test Sign Up Dates, Times & How To Join",
+    "summary_ar": "اختبار Duskbloods الشبكي (Network Test)، فرصة تجربة حصرية لحصرية FromSoftware المخصصة لسويتش 2، رح ينعقد أواخر أغسطس. المشاركة مغلقة ولازم التسجيل مسبقًا خلال فترة تقديم في يوليو.",
+    "is_review": false
+  },
+  {
+    "id": "009ef58cebd719be",
+    "url": "https://www.nintendolife.com/news/2026/08/you-wont-be-disappointed-lies-of-p-director-teases-its-sequel",
+    "source": "Nintendo Life",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:30:00+00:00",
+    "fetched_at": "2026-08-08T12:38:55.485346+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Lies of P",
+      "NEOWIZ"
+    ],
+    "title_ar": "\"لن تخيب أملك\" - مخرج Lies of P يلمّح لتفاصيل الجزء الثاني",
+    "title_original": "\"You Won't Be Disappointed\" - Lies Of P Director Teases Its Sequel",
+    "summary_ar": "استوديوهات NEOWIZ وNOUGH Studio أصدروا وثائقي جديد يستعرض قصة تطوير Lies of P، وفي نهايته لمّح المخرج تشوي جي-وون بشكل مبدئي لتفاصيل الجزء الثاني اللي قيد التطوير حاليًا.",
+    "is_review": false
+  },
+  {
+    "id": "33019d1e4e76b37e",
+    "url": "https://www.nintendolife.com/news/2026/08/game-freak-reveals-early-prototype-video-for-pokemon-pokopia",
+    "source": "Nintendo Life",
+    "source_type": "rss",
+    "published_at": "2026-08-07T12:45:00+00:00",
+    "fetched_at": "2026-08-08T12:38:55.485357+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Pokémon Pokopia",
+      "Game Freak"
+    ],
+    "title_ar": "Game Freak تكشف فيديو نادر من النموذج الأولي للعبة Pokémon Pokopia",
+    "title_original": "Game Freak Reveals Early Prototype Video For Pokémon Pokopia",
+    "summary_ar": "Game Freak نشرت مقابلة فيديو مع المصمم شيغيرو أوموري يستعرض فيها مراحل تطوير Pokémon Pokopia من البداية، بدأت بفريق من 3 أشخاص فقط بعد الانتهاء من Scarlet and Violet، وتكشف كيف تكوّنت فكرة زراعة العشب لاستدعاء البوكيمون وجعل ديتو البطل الرئيسي منذ وقت مبكر.",
+    "is_review": false
+  },
+  {
+    "id": "c52ed2949e3f244b",
+    "url": "https://news.xbox.com/en-us/2026/08/07/wild-blue-skies-how-we-brought-the-feel-of-a-90s-arcade/",
+    "source": "Xbox Wire",
+    "source_type": "rss",
+    "published_at": "2026-08-07T18:00:00+00:00",
+    "fetched_at": "2026-08-08T12:38:56.704878+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Wild Blue Skies",
+      "Xbox"
+    ],
+    "title_ar": "كيف صمم فريق Wild Blue Skies أجواء آركيد التسعينات على إكس بوكس",
+    "title_original": "Wild Blue Skies: How We Brought the Feel of a 90s Arcade Cockpit to XBOX",
+    "summary_ar": "مقال من فريق تطوير Wild Blue Skies، لعبة إطلاق نار على السكة (on-rails shooter)، يشرح كيف حاولوا يستحضروا إحساس أجهزة الآركيد الكلاسيكية من التسعينات في تجربة حديثة على إكس بوكس.",
+    "is_review": false
+  },
+  {
+    "id": "ccaf5ffca3380278",
+    "url": "https://news.xbox.com/en-us/2026/08/07/thq-nordic-showcase-2026/",
+    "source": "Xbox Wire",
+    "source_type": "rss",
+    "published_at": "2026-08-07T16:30:00+00:00",
+    "fetched_at": "2026-08-08T12:38:56.704896+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "THQ Nordic",
+      "REANIMAL",
+      "Way of the Hunter 2"
+    ],
+    "title_ar": "THQ Nordic تطلق الفصل الأول من DLC ريأنيمال وتفتح الحجز المسبق لـ Way of the Hunter 2",
+    "title_original": "THQ Nordic Showcase 2026: New Worlds, New Stories, New Games, and New Discounts",
+    "summary_ar": "في عرض THQ Nordic Showcase 2026، أطلقت الشركة الفصل الأول من حملة DLC للعبة REANIMAL، وفتحت باب الحجز المسبق للعبة Way of the Hunter 2، إضافة لعروض وخصومات جديدة على ألعاب من استوديوهاتها المختلفة.",
+    "is_review": false
+  },
+  {
+    "id": "8fd731589595a3af",
+    "url": "https://news.xbox.com/en-us/2026/08/07/dinos-collide-in-explosive-on-rails-shootertailbreak/",
+    "source": "Xbox Wire",
+    "source_type": "rss",
+    "published_at": "2026-08-07T14:00:00+00:00",
+    "fetched_at": "2026-08-08T12:38:56.704923+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Tailbreak",
+      "Xbox"
+    ],
+    "title_ar": "لعبة Tailbreak، إطلاق نار على السكة بأجواء الديناصورات، متوفرة الآن",
+    "title_original": "Dinos Collide in Explosive On-Rails Shooter Tailbreak, Out Now",
+    "summary_ar": "لعبة Tailbreak، إطلاق نار على السكة (on-rails shooter) بأجواء ديناصورات وزومبي، صدرت رسميًا على إكس بوكس سيريز إكس/إس. اللعبة تستحضر روح ألعاب الآركيد الكلاسيكية بأسلوب \"المسدس الضوئي\".",
+    "is_review": false
+  },
+  {
+    "id": "c74806e7f2c91908",
+    "url": "https://news.xbox.com/en-us/2026/08/07/helldivers-2-x-warhammer-40000-warbond-xbox/",
+    "source": "Xbox Wire",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:00:00+00:00",
+    "fetched_at": "2026-08-08T12:38:56.704936+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "HELLDIVERS 2",
+      "Warhammer 40,000"
+    ],
+    "title_ar": "هيلدايفرز 2 يطلق حزمة Warhammer 40,000 الأسطورية في 12 أغسطس",
+    "title_original": "HELLDIVERS 2 x Warhammer 40,000 Legendary Warbond, Launching August 12",
+    "summary_ar": "HELLDIVERS 2 بيطلق حزمة تعاون جديدة (Warbond) مع عالم Warhammer 40,000 بتاريخ 12 أغسطس، تجيب معدات وأسلحة وعناصر تجميلية مستوحاة من الكون الشهير.",
+    "is_review": false
+  },
+  {
+    "id": "b8e98f2116b42345",
+    "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-08T09:00:00+00:00",
+    "fetched_at": "2026-08-08T12:38:57.124587+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Chuwi Unibook",
+      "Intel"
+    ],
+    "title_ar": "هل لابتوب بـ450 دولار من علامة مجهولة أفضل مما تتوقع؟",
+    "title_original": "Is this $450 laptop from an unknown brand too good to be true?",
+    "summary_ar": "مراجعة The Verge للابتوب Chuwi Unibook، جهاز رخيص من علامة تجارية غير معروفة يعتمد على معالج Intel Wildcat Lake، عشان يشوفون هل يقدر ينافس خيارات أشهر زي MacBook Neo في فئة اللابتوبات الاقتصادية تحت 500 دولار وسط أزمة أسعار الذاكرة العالمية.",
+    "is_review": true
+  },
+  {
+    "id": "bd777d85aa6de7af",
+    "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-08T04:00:00+00:00",
+    "fetched_at": "2026-08-08T12:38:57.124601+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Nitecore",
+      "NB10000"
+    ],
+    "title_ar": "مراجعة: بطارية Nitecore الجديدة NB10000 الجيل الرابع الأخف والأصغر حتى الآن",
+    "title_original": "Nitecore's latest power bank is the lightest and most compact yet",
+    "summary_ar": "مراجعة The Verge لبطارية الطاقة المحمولة الجديدة من Nitecore، جيل NB10000 الرابع، اللي تعتبر الأخف والأصغر حجمًا في تاريخ الشركة. مثالية لمحبي تخفيف وزن حقائبهم في الرحلات والتخييم.",
+    "is_review": true
+  },
+  {
+    "id": "685d4d64d519e1c2",
+    "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-07T19:05:08+00:00",
+    "fetched_at": "2026-08-08T12:38:57.124606+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Restart",
+      "Walmart"
+    ],
+    "title_ar": "موقع ألعاب ممول من وول مارت يسرّح فريقه التحريري بالكامل",
+    "title_original": "The gaming site sponsored by Walmart lays off its editorial staff",
+    "summary_ar": "موقع Restart، موقع أخبار ألعاب انطلق أواخر 2024 برعاية وول مارت، سرّح \"فريقه التحريري بالكامل\" حسب منشور رئيسة تحريره السابقة براندي بيرثيلسون. الموقع تديره وكالة Moonrock للتسويق بالمحتوى.",
+    "is_review": false
+  },
+  {
+    "id": "d24024f22be6a99b",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-07T17:01:51+00:00",
+    "fetched_at": "2026-08-08T12:38:57.124611+00:00",
+    "category": "تقنية",
+    "tags": [
+      "الذكاء الاصطناعي",
+      "Treblo"
+    ],
+    "title_ar": "المغني فينكس فليكسين ما عاد ينكر استخدام الذكاء الاصطناعي في أغنيته Rubberz",
+    "title_original": "Fenix Flexin isn't even denying using AI to make 'Rubberz' anymore",
+    "summary_ar": "المغني الأمريكي فينكس فليكسين صار ما ينكر استخدام أداة ذكاء اصطناعي (Treblo، المعروفة سابقًا باسم Sonauto) في إنتاج أغنيته Rubberz، بعد ما نشر المنتج ميداسين فيديوهات تثبت ذلك، وأطلقت الشركة نفسها أداة كشف تؤكد الأمر.",
+    "is_review": false
+  },
+  {
+    "id": "c92dc76e40a5211a",
+    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-07T15:59:46+00:00",
+    "fetched_at": "2026-08-08T12:38:57.124615+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Roku",
+      "الذكاء الاصطناعي"
+    ],
+    "title_ar": "تجربة قناة روكو المولّدة بالذكاء الاصطناعي أشبه بالأكل من معلف",
+    "title_original": "Watching Roku's AI channel is like eating from a trough",
+    "summary_ar": "روكو أطلقت تجربة جديدة في قنواتها المجانية المدعومة بالإعلانات (FAST)، تعتمد بالكامل على محتوى مولّد بالذكاء الاصطناعي بدل الأفلام والمسلسلات الكلاسيكية. الكاتب يصف تجربة المشاهدة بأنها غير مُرضية مقارنة بفكرة إعادة اكتشاف أعمال حقيقية.",
+    "is_review": true
+  },
+  {
+    "id": "d128983602b29f0f",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-07T15:40:34+00:00",
+    "fetched_at": "2026-08-08T12:38:57.124620+00:00",
+    "category": "تقنية",
+    "tags": [
+      "OpenAI",
+      "Astra",
+      "الذكاء الاصطناعي"
+    ],
+    "title_ar": "OpenAI توقف تطوير نموذج Astra لأنه بلغ قدرات خطيرة جدًا",
+    "title_original": "OpenAI puts the brakes on a new model because it's supposedly too powerful",
+    "summary_ar": "OpenAI أعلنت تجميد بعض أنشطتها الداخلية حول نموذجها الجديد Astra، بعد ما ما قدرت تستبعد وصوله لقدرات سيبرانية \"حرجة\" تسمح باختراق أنظمة محمية بشكل جيد. الخطوة تجي بعد كشف الشركة إن نماذجها السابقة اخترقت Hugging Face بالخطأ.",
+    "is_review": false
+  },
+  {
+    "id": "79361567ce9567b7",
+    "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-07T15:04:08+00:00",
+    "fetched_at": "2026-08-08T12:38:57.124624+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Fujifilm",
+      "Polaroid",
+      "Kodak"
+    ],
+    "title_ar": "أفضل كاميرات الطباعة الفورية تستحق فلوسك",
+    "title_original": "The only instant cameras worth your money",
+    "summary_ar": "The Verge اختبرت كاميرات الطباعة الفورية من ماركات مشهورة زي Fujifilm وPolaroid وKodak، وطلعت بقائمة بأفضل الخيارات المتوفرة حاليًا رغم إن جودة الصور مو مثالية مقارنة بالجوال، لكن سحر الطباعة الفورية شيء ثاني.",
+    "is_review": true
+  },
+  {
+    "id": "34d4b5175e8f9d46",
+    "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-07T14:53:44+00:00",
+    "fetched_at": "2026-08-08T12:38:57.124629+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Disney Plus",
+      "الذكاء الاصطناعي"
+    ],
+    "title_ar": "ديزني بلس تختبر بحث جديد مدعوم بالذكاء الاصطناعي",
+    "title_original": "Disney Plus tries a new AI-powered search",
+    "summary_ar": "ديزني بلس بدأت تختبر أداة بحث جديدة تعتمد على الذكاء الاصطناعي، تدعم البحث بلغة طبيعية أو استعلام صوتي، لتقدّم للمستخدم قائمة أفلام ومسلسلات مخصصة أكثر من الاعتماد فقط على سجل المشاهدة التقليدي.",
+    "is_review": false
+  },
+  {
+    "id": "3f95a51fb5538c32",
+    "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-07T14:43:34+00:00",
+    "fetched_at": "2026-08-08T12:38:57.124633+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Microsoft Edge",
+      "uBlock Origin"
+    ],
+    "title_ar": "مايكروسوفت إيدج بيوقف دعم إضافات حظر الإعلانات القديمة زي ما سوت جوجل كروم",
+    "title_original": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+    "summary_ar": "مايكروسوفت إيدج بينهي دعم منصة الإضافات Manifest V2، وهالشي بيقطع دعم إضافات زي uBlock Origin وغيرها من حاظرات الإعلانات القديمة، بنفس الخطوة اللي سوتها جوجل كروم بداية هالسنة. الشركة تقول إنه بس 58 إضافة على متجر إيدج ما زالت تستخدم النسخة القديمة بشكل فعلي.",
+    "is_review": false
+  },
+  {
+    "id": "5655a593c8d3ecb0",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "source": "TechCrunch",
+    "source_type": "rss",
+    "published_at": "2026-08-07T19:48:24+00:00",
+    "fetched_at": "2026-08-08T12:38:57.452681+00:00",
+    "category": "تقنية",
+    "tags": [
+      "OpenAI",
+      "Astra"
+    ],
+    "title_ar": "OpenAI تؤكد إبطاء تطوير نموذج Astra بسبب مخاوف أمنية",
+    "title_original": "OpenAI says it slowed Astra model development over security concerns",
+    "summary_ar": "OpenAI قالت إن نموذجها Astra، اللي ما زال قيد التطوير، وصل لـ\"عتبة سيبرانية حرجة\"، يعني يقدر يكتشف وينفذ هجمات إلكترونية بشكل مستقل على أنظمة حقيقية محمية بإحكام.",
+    "is_review": false
+  },
+  {
+    "id": "0d1fce010906239f",
+    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "source": "TechCrunch",
+    "source_type": "rss",
+    "published_at": "2026-08-07T18:30:11+00:00",
+    "fetched_at": "2026-08-08T12:38:57.452688+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Rippling",
+      "الذكاء الاصطناعي"
+    ],
+    "title_ar": "بعد إنفاق ملايين على الذكاء الاصطناعي بأشهر، Rippling تطلق أداة لقياس العائد منه",
+    "title_original": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "summary_ar": "شركة Rippling أطلقت أداة جديدة اسمها AI Spend Console، تساعد الشركات تتابع إنفاق كل موظف وفريق على أدوات الذكاء الاصطناعي، بعد ما اكتشفت الشركة نفسها إنها صرفت ملايين الدولارات على الذكاء الاصطناعي خلال أشهر قليلة بدون رقابة كافية.",
+    "is_review": false
+  },
+  {
+    "id": "249696957eb3511a",
+    "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+    "source": "TechCrunch",
+    "source_type": "rss",
+    "published_at": "2026-08-07T18:20:00+00:00",
+    "fetched_at": "2026-08-08T12:38:57.452694+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Wacom",
+      "MovinkPad 11"
+    ],
+    "title_ar": "مراجعة: لوحة Wacom MovinkPad 11 نقطة انطلاق ممتعة ومتوسطة السعر للفنانين الرقميين",
+    "title_original": "Wacom's MovinkPad 11 is a fun, midpriced entry point for digital artists",
+    "summary_ar": "لوحة Wacom MovinkPad 11 الرسومية الجديدة تقدم نقطة دخول ممتازة ومتوسطة السعر لعالم الرسم الرقمي، وتساعد أي حد يحب يطلق العنان لخياله الفني بدون ما يدفع فلوس كثيرة.",
+    "is_review": true
+  },
+  {
+    "id": "0f54806b112f77ba",
+    "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+    "source": "TechCrunch",
+    "source_type": "rss",
+    "published_at": "2026-08-07T18:00:08+00:00",
+    "fetched_at": "2026-08-08T12:38:57.452699+00:00",
+    "category": "تقنية",
+    "tags": [
+      "الأمن السيبراني",
+      "بولندا"
+    ],
+    "title_ar": "باحثون أمنيون يكتشفون ثغرات في محاكم ومستشفيات ومطارات بولندية",
+    "title_original": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+    "summary_ar": "باحثون أمنيون فحصوا الإنترنت البولندي ولقوا نقاط ضعف مشتركة، زي برمجيات تنظيم وعرض المحتوى، ممكن تخلي المخترقين يعبثون بمواقع حكومية زي المحاكم والمستشفيات والمطارات.",
+    "is_review": false
+  },
+  {
+    "id": "6a3d740c5113ff5a",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "source": "TechCrunch",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:16:09+00:00",
+    "fetched_at": "2026-08-08T12:38:57.452704+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Cloudflare",
+      "الذكاء الاصطناعي"
+    ],
+    "title_ar": "كلاودفلير تطلق Kitesurf، متصفح مصمم خصيصًا لوكلاء الذكاء الاصطناعي",
+    "title_original": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "summary_ar": "كلاودفلير أطلقت Kitesurf، متصفح سحابي مصمم لوكلاء الذكاء الاصطناعي بدل البشر، ويستهلك موارد حوسبة أقل من كروميوم في مهام الأتمتة الشائعة، عشان يسهّل على المطورين بناء وكلاء ذكاء اصطناعي يعتمدون على المتصفح بكفاءة أكبر.",
+    "is_review": false
+  },
+  {
+    "id": "0de827c1845001eb",
+    "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+    "source": "TechCrunch",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:09:04+00:00",
+    "fetched_at": "2026-08-08T12:38:57.452709+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Framework",
+      "اختراق بيانات"
+    ],
+    "title_ar": "شركة الحواسيب Framework تبلّغ \"كل عملائها\" باختراق بيانات",
+    "title_original": "Computer maker Framework notifies 'all customers' of a data breach",
+    "summary_ar": "شركة Framework، المعروفة بحواسيبها القابلة للترقية والتصليح، أبلغت كل عملائها إن مخترقين وصلوا لأسمائهم وبريدهم الإلكتروني وأرقام هواتفهم وعناوينهم الفعلية في اختراق بيانات جديد.",
+    "is_review": false
+  },
+  {
+    "id": "d4afbd79e46d3c65",
+    "url": "https://www.engadget.com/2232981/x-replacing-revenue-sharing-with-original-content-rewards-program/",
+    "source": "Engadget",
+    "source_type": "rss",
+    "published_at": "2026-08-08T07:31:34+00:00",
+    "fetched_at": "2026-08-08T12:38:57.865612+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "X",
+      "Elon Musk"
+    ],
+    "title_ar": "منصة X تستبدل برنامج مشاركة الأرباح ببرنامج جديد لمكافأة المحتوى الأصلي",
+    "title_original": "X is replacing revenue sharing with a new original content rewards program",
+    "summary_ar": "منصة X (تويتر سابقًا) بتلغي برنامج مشاركة الأرباح القديم بعد 7 سبتمبر، وبتطلق بدله برنامج \"Original Content Rewards\" الجديد بتاريخ 8 سبتمبر. الأهلية تتطلب 500 متابع موثّق على الأقل و500 ألف مشاهدة موثقة من المستخدمين الموثقين.",
+    "is_review": false
+  },
+  {
+    "id": "1399cd58931678a7",
+    "url": "https://www.engadget.com/2232708/framework-customer-information-was-accessed-as-part-of-a-data-breach/",
+    "source": "Engadget",
+    "source_type": "rss",
+    "published_at": "2026-08-07T15:37:26+00:00",
+    "fetched_at": "2026-08-08T12:38:57.865620+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Framework",
+      "اختراق بيانات"
+    ],
+    "title_ar": "بيانات عملاء Framework تعرضت لاختراق، لكن دون معلومات دفع",
+    "title_original": "Framework customer information was accessed as part of a data breach",
+    "summary_ar": "شركة الحواسيب Framework أكدت إن قاعدة بيانات عملائها تعرضت للاختراق، لكن ما فيه معلومات دفع تسربت.",
+    "is_review": false
+  },
+  {
+    "id": "17d618933e4560d4",
+    "url": "https://www.engadget.com/2232687/sony-might-be-rebooting-its-2020-flagship-headphones/",
+    "source": "Engadget",
+    "source_type": "rss",
+    "published_at": "2026-08-07T15:24:20+00:00",
+    "fetched_at": "2026-08-08T12:38:57.865631+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Sony"
+    ],
+    "title_ar": "سوني ممكن تعيد إحياء سماعاتها الرائدة من 2020",
+    "title_original": "Sony might be rebooting its 2020 flagship headphones",
+    "summary_ar": "تقارير تشير إن سوني تدرس إعادة إطلاق نموذج سماعاتها الرائدة القديم من 2020، بدل تطوير جيل جديد بالكامل، عشان توفر على المشترين المهتمين بجودة عالية بسعر أقل.",
+    "is_review": false
+  },
+  {
+    "id": "62e720b9586a984c",
+    "url": "https://www.engadget.com/2232681/static-hour-challenges-you-to-be-the-arbiter-of-truth-and-fear/",
+    "source": "Engadget",
+    "source_type": "rss",
+    "published_at": "2026-08-07T15:19:54+00:00",
+    "fetched_at": "2026-08-08T12:38:57.865636+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Static Hour"
+    ],
+    "title_ar": "Static Hour تخليك محرر أخبار ليلي يقرر إيش الحقيقة وإيش الخوف",
+    "title_original": "Static Hour challenges you to be the arbiter of truth and fear",
+    "summary_ar": "لعبة Static Hour تحطك بدور محرر أخبار ليلي يواجه قرارات مثيرة حول الحقيقة والخوف. الكاتب يصف التجربة بإنها مثيرة أكثر من أي وظيفة تحرير أخبار حقيقية.",
+    "is_review": true
+  },
+  {
+    "id": "d62a5d185b7618d8",
+    "url": "https://www.engadget.com/2232670/we-thought-we-wouldnt-write-about-overwatch-characters-anymore-but-dmon-looks-too-sick-not-to/",
+    "source": "Engadget",
+    "source_type": "rss",
+    "published_at": "2026-08-07T15:11:38+00:00",
+    "fetched_at": "2026-08-08T12:38:57.865641+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Overwatch",
+      "D.Mon",
+      "Blizzard"
+    ],
+    "title_ar": "بطلة Overwatch الجديدة D.Mon، مزيج من D.Va ورينهارت بمظهر خرافي",
+    "title_original": "We thought we wouldn't write about Overwatch characters anymore but D.Mon looks too sick not to",
+    "summary_ar": "بليزارد كشفت عن D.Mon، بطلة ميكا جديدة في Overwatch يوصفها الكاتب بإنها مزيج بين D.Va ورينهارت بروح \"خرافية\" جدًا خلته يكتب عنها رغم قراره السابق يتوقف عن تغطية أبطال أوفرواتش الجدد.",
+    "is_review": false
+  },
+  {
+    "id": "ac6c9628f4561930",
+    "url": "https://www.engadget.com/2229315/ai-changing-cybersecurity-quick-terrifying-way/",
+    "source": "Engadget",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:30:00+00:00",
+    "fetched_at": "2026-08-08T12:38:57.865657+00:00",
+    "category": "تقنية",
+    "tags": [
+      "الذكاء الاصطناعي",
+      "الأمن السيبراني"
+    ],
+    "title_ar": "الذكاء الاصطناعي يغيّر عالم الأمن السيبراني بسرعة ورعب",
+    "title_original": "AI is changing cybersecurity in quick and terrifying ways",
+    "summary_ar": "المخترقون صاروا يستخدمون الذكاء الاصطناعي في هجماتهم، وهالشي فتح لهم طرق جديدة لاستغلال ثغرات ما كانت موجودة أصلاً من قبل. مقال يستعرض كيف يتسارع سباق التسلح بين المهاجمين والمدافعين في الأمن السيبراني.",
+    "is_review": false
+  },
+  {
+    "id": "3ce57b9e709cdf0a",
+    "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-08-08T08:05:50+00:00",
+    "fetched_at": "2026-08-08T12:38:58.152741+00:00",
+    "category": "تقنية",
+    "tags": [
+      "DeepMind",
+      "الذكاء الاصطناعي"
+    ],
+    "title_ar": "نموذج DeepMind للأعاصير يفاجئ علماء الطقس بدقته",
+    "title_original": "DeepMind's hurricane breakthrough has surprised weather scientists",
+    "summary_ar": "نموذج WeatherNext مفتوح المصدر من DeepMind قادر يتوقع مسار الأعاصير بدقة عالية حتى مع بيانات طقس أقل تفصيلًا، وهالشي فاجأ علماء الأرصاد الجوية وممكن يعطي المتنبئين يوم إضافي كامل للتحذير المبكر.",
+    "is_review": false
+  },
+  {
+    "id": "5cd4a4ede33f4df6",
+    "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-08-07T18:48:21+00:00",
+    "fetched_at": "2026-08-08T12:38:58.152747+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Copernicus Browser"
+    ],
+    "title_ar": "خدمة Copernicus Browser الأوروبية المجانية تضيف ميزة تتبع حرائق الغابات",
+    "title_original": "Europe's free satellite service just made it easier to track wildfires",
+    "summary_ar": "خدمة الأقمار الصناعية الأوروبية المجانية Copernicus Browser أضافت أداة تصور جديدة لتتبع حرائق الغابات، وسط موسم حرائق قياسي هالسنة.",
+    "is_review": false
+  },
+  {
+    "id": "1906ab27f47f7d5e",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-08-07T16:49:27+00:00",
+    "fetched_at": "2026-08-08T12:38:58.152757+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Meta"
+    ],
+    "title_ar": "قاضٍ يُلزم ميتا بدفع 567 مليون دولار لعلاج مشاكل الصحة النفسية عند الشباب",
+    "title_original": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+    "summary_ar": "قاضٍ في نيو مكسيكو قضى بإن ميتا تسببت في \"إزعاج عام\" وألزمها بتمويل صندوق بقيمة 567 مليون دولار لمعالجة أزمة الصحة النفسية عند الشباب المرتبطة باستخدام منصاتها.",
+    "is_review": false
+  },
+  {
+    "id": "8521a3fbd62a2c11",
+    "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-08-07T15:00:02+00:00",
+    "fetched_at": "2026-08-08T12:38:58.152767+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Quake",
+      "id Software",
+      "MachineGames"
+    ],
+    "title_ar": "حزمة مهام رسمية جديدة للاحتفال بذكرى Quake الـ30 تضيف خرائط وآليات جديدة",
+    "title_original": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+    "summary_ar": "id Software أطلقت حزمة مهام رسمية جديدة للاحتفال بمرور 30 سنة على Quake، تحتوي 19 خريطة جديدة تكمل قصة الحملات الإضافية اللي أضافتها MachineGames سابقًا.",
+    "is_review": false
+  },
+  {
+    "id": "4914c9f2778f47b0",
+    "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-08-07T14:36:22+00:00",
+    "fetched_at": "2026-08-08T12:38:58.152777+00:00",
+    "category": "تقنية",
+    "tags": [
+      "OpenAI"
+    ],
+    "title_ar": "سماعة OpenAI الذكية الغالية بتستخدم أجزاء متحركة عشان تبان \"أكثر حيوية\"",
+    "title_original": "OpenAI's expensive smart speaker will use moving parts to seem \"more alive\"",
+    "summary_ar": "تقرير من مارك غورمان يفيد إن OpenAI أكدت إن سماعتها الذكية القادمة، الغالية الثمن، مو نسخة مقلدة من منتجات آبل، وبتستخدم أجزاء متحركة عشان تعطي إحساس أكبر بالحيوية والتفاعل.",
+    "is_review": false
+  },
+  {
+    "id": "c1751eb14d624b35",
+    "url": "https://www.wired.com/story/best-gaming-laptops/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-08T08:01:00+00:00",
+    "fetched_at": "2026-08-08T12:38:58.492201+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Razer",
+      "Asus",
+      "Dell"
+    ],
+    "title_ar": "أفضل لابتوبات الألعاب لعام 2026: Razer وAsus وDell وغيرها",
+    "title_original": "Best Gaming Laptops (2026): Razer, Asus, Dell, and More",
+    "summary_ar": "Wired اختبرت مئات الساعات على أنواع مختلفة من لابتوبات الألعاب، وطلعت بقائمة توصيات بأفضل الخيارات من ماركات زي Razer وAsus وDell لمختلف الميزانيات والاحتياجات.",
+    "is_review": true
+  },
+  {
+    "id": "ced37a307d2cb353",
+    "url": "https://www.wired.com/review/xteink-x4-pro-e-reader/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-08T07:36:00+00:00",
+    "fetched_at": "2026-08-08T12:38:58.492210+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Xteink X4 Pro"
+    ],
+    "title_ar": "مراجعة قارئ Xteink X4 Pro الجيبي: ممتع لكن محدود",
+    "title_original": "Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited",
+    "summary_ar": "قارئ الكتب الإلكترونية الجديد Xteink X4 Pro يُعتبر أفضل إصدار من الشركة حتى الآن، لكن غياب متجر كتب إلكتروني خاص فيه يحد من فائدته الفعلية.",
+    "is_review": true
+  },
+  {
+    "id": "9f3617953e7e65ab",
+    "url": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-08T07:30:00+00:00",
+    "fetched_at": "2026-08-08T12:38:58.492218+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Flock",
+      "المراقبة"
+    ],
+    "title_ar": "خطط شركة Flock لكاميرات داشبورد سيارات الأجرة وتدريب الشرطة تنكشف",
+    "title_original": "Flock's Plans for Rideshare Dashcams and Coaching Police, Revealed",
+    "summary_ar": "تقرير Wired الأسبوعي عن الأمن السيبراني يكشف خطط شركة Flock لتركيب كاميرات داشبورد في سيارات النقل التشاركي وتدريب الشرطة على استخدام بياناتها، إضافة لأخبار أمنية ثانية زي حكم قضائي بعدم دستورية تجميع بيانات أبراج الاتصال.",
+    "is_review": false
+  },
+  {
+    "id": "d724fde1f0e4cfd7",
+    "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-08T07:00:00+00:00",
+    "fetched_at": "2026-08-08T12:38:58.492225+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Google Gemini",
+      "Gmail",
+      "Google Docs"
+    ],
+    "title_ar": "كيف توقف مساعد Gemini في جيميل ومستندات جوجل",
+    "title_original": "How to Disable Gemini in Gmail and Google Docs",
+    "summary_ar": "أدوات وتلميحات جديدة من Gemini بدأت تظهر داخل مستندات جوجل وجيميل بشكل تلقائي، ولو ما تبي مساعدة الذكاء الاصطناعي وأنت تكتب رسائلك ومستنداتك، فيه طريقة توقفها بسهولة.",
+    "is_review": false
+  },
+  {
+    "id": "dd6ef5736f123dea",
+    "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-08T07:00:00+00:00",
+    "fetched_at": "2026-08-08T12:38:58.492233+00:00",
+    "category": "تقنية",
+    "tags": [
+      "الأمن السيبراني"
+    ],
+    "title_ar": "معلومات حساسة تتسرب باستمرار لإيميلات \"noreply\"... وهذا الشخص يشوفها كلها",
+    "title_original": "Sensitive Info Goes Into 'No Reply' Emails Constantly. This Guy Sees It All",
+    "summary_ar": "باحثان أمنيان اشتروا نطاقات رخيصة زي noreply.net وdeleteduser.com وأنشأوا خدمات تستقبل الإيميلات المرسلة لها، واكتشفوا إن مئات الشركات ترسل أسرار داخلية وبيانات حساسة لعناوين \"no-reply\" بدون قصد.",
+    "is_review": false
+  },
+  {
+    "id": "b6bb465fa562db68",
+    "url": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-08T06:31:00+00:00",
+    "fetched_at": "2026-08-08T12:38:58.492241+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Hairmax"
+    ],
+    "title_ar": "مراجعة جهاز Hairmax LaserBand 82 ComfortFlex لعلاج تساقط الشعر",
+    "title_original": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
+    "summary_ar": "جهاز الليزر لعلاج تساقط الشعر Hairmax LaserBand 82 ComfortFlex يحتاج بس 90 ثانية لكل جلسة علاج، وأظهر نتائج ملموسة حسب تجربة الكاتبة الشخصية.",
+    "is_review": true
+  },
+  {
+    "id": "668657284d3b0362",
+    "url": "https://www.wired.com/story/best-solar-generators/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-08T06:00:00+00:00",
+    "fetched_at": "2026-08-08T12:38:58.492256+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "مولدات طاقة شمسية"
+    ],
+    "title_ar": "أفضل مولدات الطاقة الشمسية للرحلات والكرفانات والاستخدام المنزلي",
+    "title_original": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
+    "summary_ar": "Wired اختبرت عدة مولدات طاقة شمسية محمولة، وطلعت بتوصيات لأفضل الخيارات لمن يحتاج طاقة بديلة في الرحلات والكرفانات أو كنسخة احتياطية بالمنزل.",
+    "is_review": true
+  },
+  {
+    "id": "12c654948766c38b",
+    "url": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-08T06:00:00+00:00",
+    "fetched_at": "2026-08-08T12:38:58.492264+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "WhatsApp"
+    ],
+    "title_ar": "واتساب يضيف ميزة \"@all\" العملية لمجموعات الدردشة",
+    "title_original": "WhatsApp Gets a Handy @all Feature for Group Chats",
+    "summary_ar": "تحديث جديد لواتساب يضيف ميزة الإشارة لكل أعضاء المجموعة بأمر @all، إضافة لاستطلاعات رأي مجهولة وطريقة أسهل لفتح محادثة خاصة أصغر بعيدًا عن المجموعة الكبيرة.",
+    "is_review": false
+  },
+  {
+    "id": "3fea1d193d8e4bc6",
+    "url": "https://www.androidauthority.com/samsung-routines-nfc-tags-superpowers-how-3694682/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-08T09:00:15+00:00",
+    "fetched_at": "2026-08-08T12:38:59.516098+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Samsung",
+      "NFC"
+    ],
+    "title_ar": "أعطيت جوالي سامسونج قوى خارقة بعلبة وسوم NFC بـ6 دولار بس",
+    "title_original": "I gave my Samsung phone superpowers with a $6 pack of NFC tags — here's how",
+    "summary_ar": "وسوم NFC الرخيصة مع ميزة Samsung Routines تقدر تسوي أكثر بكثير مما يتخيله أغلب الناس، من تفعيل إعدادات معينة تلقائيًا عند لمس الوسم لين أتمتة مهام يومية كاملة بجوال سامسونج.",
+    "is_review": false
+  },
+  {
+    "id": "958048211cb4888c",
+    "url": "https://www.androidauthority.com/how-to-watch-netflix-4k-on-chrome-3695889/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-08T07:30:49+00:00",
+    "fetched_at": "2026-08-08T12:38:59.516113+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Netflix",
+      "Google Chrome"
+    ],
+    "title_ar": "أخيرًا قدرت أشغّل نتفليكس بجودة 4K على كروم... وهذي الطريقة",
+    "title_original": "I'm finally streaming Netflix in 4K on Chrome — here's how you can too",
+    "summary_ar": "طريقة عملية لتفعيل بث نتفليكس بجودة 4K كاملة على متصفح جوجل كروم، بعد ما كانت الجودة محدودة افتراضيًا على أغلب المتصفحات.",
+    "is_review": false
+  },
+  {
+    "id": "d3184f1c841e4eb2",
+    "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-first-things-to-do-3695011/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-08T07:00:34+00:00",
+    "fetched_at": "2026-08-08T12:38:59.516118+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Samsung Galaxy Z Fold 8"
+    ],
+    "title_ar": "حصلت على Galaxy Z Fold 8 جديد؟ هذي أول 5 أشياء لازم تسويها",
+    "title_original": "Just got your Galaxy Z Fold 8? Here are the first 5 things you need to do",
+    "summary_ar": "مقال يستعرض أول خطوات مهمة بعد شراء Galaxy Z Fold 8، عشان تحصل أفضل تجربة من الجهاز اللي يحتاج شوية إعدادات إضافية عشان يوصل لأفضل حالاته.",
+    "is_review": false
+  },
+  {
+    "id": "2e850845e8a9c143",
+    "url": "https://www.androidauthority.com/usb-c-charger-need-to-know-before-buying-3694333/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-08T06:30:52+00:00",
+    "fetched_at": "2026-08-08T12:38:59.516123+00:00",
+    "category": "تقنية",
+    "tags": [
+      "USB-C"
+    ],
+    "title_ar": "قبل ما تشتري شاحن USB-C جديد، تأكد من هذي المواصفة المخفية المهمة",
+    "title_original": "Before you buy another USB-C charger, make sure it has this critical (and hidden) spec",
+    "summary_ar": "شراء شاحن USB-C ما زال أصعب مما يفترض، والمقال يشرح مواصفة مهمة لكن مخفية لازم تنتبه لها قبل ما تشتري أي شاحن جديد عشان تضمن توافقه وأداءه الصحيح.",
+    "is_review": false
+  },
+  {
+    "id": "a4d173120fdac665",
+    "url": "https://www.androidauthority.com/dont-wait-for-pixel-11-buy-pixel-10-now-3695239/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-08T06:00:40+00:00",
+    "fetched_at": "2026-08-08T12:38:59.516127+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Google Pixel 10",
+      "Google Pixel 11"
+    ],
+    "title_ar": "لا تنتظر بيكسل 11: ليه تشتري بيكسل 10 الحين أفضل قرار",
+    "title_original": "Don't wait for the Pixel 11: Why you should buy the Pixel 10 right now",
+    "summary_ar": "مع اقتراب إطلاق Pixel 11، يرى كاتب المقال إن شراء Pixel 10 الحالي أوفر وأذكى، لأن الفروقات المتوقعة بين الجيلين مو كبيرة بالقدر اللي يستاهل الانتظار والدفع أكثر.",
+    "is_review": true
+  },
+  {
+    "id": "22d4f3eefaae8c8b",
+    "url": "https://www.androidauthority.com/youtube-tv-espn-unlimited-3696125/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-07T18:22:48+00:00",
+    "fetched_at": "2026-08-08T12:38:59.516132+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "YouTube TV",
+      "ESPN"
+    ],
+    "title_ar": "مشتركو YouTube TV يبدأون يحصلون على ميزة ESPN Unlimited المجانية",
+    "title_original": "YouTube TV subscribers are starting to get access to their latest free perk",
+    "summary_ar": "بعد وعد من الخريف الماضي، بدأت خدمة ESPN Unlimited توصل تدريجيًا لمشتركي YouTube TV كميزة مجانية إضافية.",
+    "is_review": false
+  },
+  {
+    "id": "e76196f343a4f686",
+    "url": "https://www.androidauthority.com/pixel-watch-icons-3696097/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-07T16:54:11+00:00",
+    "fetched_at": "2026-08-08T12:38:59.516138+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Google Pixel Watch",
+      "Wear OS"
+    ],
+    "title_ar": "جوجل تجدد أيقونات تطبيقات ساعة Pixel Watch قبل إطلاق الجيل الخامس",
+    "title_original": "Check out the latest Pixel Watch apps to get a new look for their icons",
+    "summary_ar": "جوجل بدأت تطلق أيقونات جديدة لتطبيقي الساعة والمؤقت على نظام Wear OS بهدوء، تحضيرًا لإطلاق Pixel Watch 5 القادمة.",
+    "is_review": false
+  },
+  {
+    "id": "81ae15a6f1d26e39",
+    "url": "https://www.androidauthority.com/google-pixel-watch-5-teaser-3696073/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-07T15:06:57+00:00",
+    "fetched_at": "2026-08-08T12:38:59.516142+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Google Pixel Watch 5"
+    ],
+    "title_ar": "جوجل تسخر من الساعات الذكية \"القبيحة\" في تيزر Pixel Watch 5",
+    "title_original": "Google throws shade at ugly smartwatches in Pixel Watch 5 teaser",
+    "summary_ar": "جوجل نشرت تيزر جديد لساعة Pixel Watch 5 يسخر بشكل غير مباشر من تصاميم الساعات الذكية المنافسة، ويسلط الضوء على الساعة الجديدة قبل إطلاقها الرسمي.",
+    "is_review": false
+  },
+  {
+    "id": "d7100d1538063682",
+    "url": "https://www.androidauthority.com/pixel-11-proactive-assistance-3696051/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-07T14:58:34+00:00",
+    "fetched_at": "2026-08-08T12:38:59.516149+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Google Pixel 11"
+    ],
+    "title_ar": "جوجل تضع اللمسات الأخيرة على ميزة Proactive Assistance قبل إطلاق Pixel 11",
+    "title_original": "Google puts the finishing touches on Proactive Assistance ahead of Pixel 11 launch",
+    "summary_ar": "جوجل تجهز الميزة الجديدة Proactive Assistance عشان تكون جاهزة مع إطلاق سلسلة Pixel 11، وهدفها تقديم مساعدة استباقية للمستخدم بدون ما يطلبها.",
+    "is_review": false
+  },
+  {
+    "id": "4d22fd31f00977ae",
+    "url": "https://www.androidauthority.com/google-conversation-capture-3696029/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-07T14:41:15+00:00",
+    "fetched_at": "2026-08-08T12:38:59.516159+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Google",
+      "الذكاء الاصطناعي"
+    ],
+    "title_ar": "انسى تطبيق Recorder... جوجل تطور أداة ملاحظات صوتية جديدة بالذكاء الاصطناعي",
+    "title_original": "Forget Recorder — Google's working on a new AI-powered voice notes tool",
+    "summary_ar": "جوجل تطور أداة جديدة اسمها Conversation Capture، ملاحظات صوتية مدعومة بالذكاء الاصطناعي بديلة عن تطبيق Recorder الحالي.",
+    "is_review": false
+  },
+  {
+    "id": "a1880c19514b26e7",
+    "url": "https://www.androidauthority.com/google-nest-devices-gain-thread-1-4-3696032/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-07T14:17:51+00:00",
+    "fetched_at": "2026-08-08T12:38:59.516168+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Google Nest",
+      "Thread"
+    ],
+    "title_ar": "أجهزة Nest المنزلية الذكية تحصل على ترقية تسهّل عملية الإقران",
+    "title_original": "Nest smart home devices are getting an upgrade that will make pairing easier",
+    "summary_ar": "أجهزة نيست (Nest) المنزلية الذكية بتترقى لبروتوكول Thread 1.4 الجديد، وهالشي بيسهّل عملية إقران الأجهزة مع بعضها بشكل أسرع وأكثر استقرار.",
+    "is_review": false
+  },
+  {
+    "id": "b48e13cb3926e3f8",
+    "url": "https://9to5google.com/2026/08/07/nothing-ear-3a-review/",
+    "source": "9to5Google",
+    "source_type": "rss",
+    "published_at": "2026-08-07T16:05:00+00:00",
+    "fetched_at": "2026-08-08T12:38:59.931584+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Nothing Ear (3a)"
+    ],
+    "title_ar": "مراجعة Nothing Ear (3a): أفضل سماعات لاسلكية بس بـ99 دولار",
+    "title_original": "Nothing Ear (3a) Review: Simply the best earbuds – and they're only $99",
+    "summary_ar": "بعد أسابيع من الاستخدام، يقول الكاتب إن سماعات Nothing Ear (3a) هي أفضل خيار متوفر بسعر 99 دولار، ويفضّلها على خيارات ثانية تكلف ضعف السعر.",
+    "is_review": true
+  },
+  {
+    "id": "93fdac37ae825bd6",
+    "url": "https://9to5google.com/2026/08/07/audeze-is-quietly-becoming-a-dominant-force-in-gaming-audio-sponsored/",
+    "source": "9to5Google",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:25:17+00:00",
+    "fetched_at": "2026-08-08T12:38:59.931599+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Audeze",
+      "Maxwell 2 ANC"
+    ],
+    "title_ar": "Audeze تعلن سماعة Maxwell 2 ANC الرائدة الجديدة لعالم صوتيات الألعاب",
+    "title_original": "Audeze is quietly becoming a dominant force in gaming audio",
+    "summary_ar": "شركة Audeze، المعروفة بسماعاتها الاحترافية للصوتيين، توسعت في سوق سماعات الألعاب منذ 2018 بسماعة Mobius، وبعد نجاح Maxwell 2 في 2026، أعلنت الآن عن سماعتها الرائدة الجديدة Maxwell 2 ANC.",
+    "is_review": false
+  },
+  {
+    "id": "fb23d696d38445a9",
+    "url": "https://9to5google.com/2026/08/07/pixel-watch-5-teaser/",
+    "source": "9to5Google",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:23:25+00:00",
+    "fetched_at": "2026-08-08T12:38:59.931606+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Google Pixel Watch 5"
+    ],
+    "title_ar": "تيزر Pixel Watch 5 يسخر من آبل وسامسونج بإنها \"تحترم شكل الساعة\"",
+    "title_original": "Pixel Watch 5 teaser pokes fun at Apple, Samsung by having 'decency to look like a watch'",
+    "summary_ar": "بعد تيزرات لهاتفي Pixel 11 Pro وPixel 11 Pro Fold الأسبوع الماضي، جوجل أخيرًا نشرت فيديو تيزر لساعة Pixel Watch 5، بلمسة ساخرة تجاه تصاميم منافسيها.",
+    "is_review": false
+  },
+  {
+    "id": "54eb8ae74836a145",
+    "url": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
+    "source": "MacRumors",
+    "source_type": "rss",
+    "published_at": "2026-08-08T07:22:46+00:00",
+    "fetched_at": "2026-08-08T12:39:01.122451+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Claude Code",
+      "Anthropic"
+    ],
+    "title_ar": "Claude Code يضيف ميزة التراسل بين الجلسات على macOS",
+    "title_original": "Claude Code Adds Cross-Session Messaging on macOS",
+    "summary_ar": "أنثروبيك حدّثت Claude Code بحيث تقدر جلسات البرمجة المنفصلة ترسل رسائل لبعضها مباشرة، بدون الحاجة لنسخ السياق يدويًا بين نوافذ Terminal. الميزة جات في إصدار 2.1.224، وتعتمد على أداتين جديدتين: ListAgents لإيجاد الجلسات النشطة، وSendMessage لإرسال الرسائل بينها.",
+    "is_review": false
+  },
+  {
+    "id": "1de77f8e8951a451",
+    "url": "https://www.macrumors.com/2026/08/08/iphone-17-prices-could-rise-as-soon-as-monday/",
+    "source": "MacRumors",
+    "source_type": "rss",
+    "published_at": "2026-08-08T06:54:27+00:00",
+    "fetched_at": "2026-08-08T12:39:01.122468+00:00",
+    "category": "تقنية",
+    "tags": [
+      "آيفون 17",
+      "Apple"
+    ],
+    "title_ar": "شائعات: أسعار آيفون 17 ممكن ترتفع بداية من يوم الاثنين",
+    "title_original": "iPhone 17 Prices Could Rise as Soon as Monday, Rumor Claims",
+    "summary_ar": "تسريب من مصدر صيني يشير إن آبل ممكن ترفع أسعار آيفون 17 بداية من 10 أغسطس، قبل الموجة الأكبر من رفع الأسعار المتوقعة مع إطلاق آيفون 18 برو الشهر الجاي. آبل كانت رفعت أسعار الماك والآيباد في يونيو بسبب ارتفاع تكاليف الذاكرة والتخزين.",
+    "is_review": false
+  },
+  {
+    "id": "06f2caf6a4b3ff34",
+    "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns/",
+    "source": "MacRumors",
+    "source_type": "rss",
+    "published_at": "2026-08-07T18:27:43+00:00",
+    "fetched_at": "2026-08-08T12:39:01.122484+00:00",
+    "category": "تقنية",
+    "tags": [
+      "OpenAI",
+      "Astra"
+    ],
+    "title_ar": "OpenAI تؤجل نموذجها الكبير Astra بسبب مخاوف اختراق حرجة",
+    "title_original": "OpenAI Delays Next Major AI Model 'Astra' Over Critical Hacking Concerns",
+    "summary_ar": "OpenAI أعلنت \"تجميد\" الأنشطة حول نموذجها القادم Astra، بعد ما أظهرت التقييمات الداخلية تقدم كبير في قدراته البرمجية والسيبرانية، لدرجة ما تقدر الشركة تستبعد وصوله لـ\"قدرات سيبرانية حرجة\".",
+    "is_review": false
+  },
+  {
+    "id": "83d5c7cf20e495c0",
+    "url": "https://www.macrumors.com/2026/08/07/ios-26-dopamine-jailbreak/",
+    "source": "MacRumors",
+    "source_type": "rss",
+    "published_at": "2026-08-07T17:56:52+00:00",
+    "fetched_at": "2026-08-08T12:39:01.122495+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "iOS 26",
+      "Jailbreak",
+      "Apple"
+    ],
+    "title_ar": "iOS 26 يحصل على أول جيلبريك له بفضل أداة Dopamine",
+    "title_original": "iOS 26 Gets First Jailbreak Thanks to Dopamine",
+    "summary_ar": "بعد 326 يوم من الإطلاق، حصل iOS 26 على أول جيلبريك رسمي له، بفضل مطوري أداة Dopamine الشهيرة. النسخة الجديدة Dopamine 3.0 تدعم عدة إصدارات من iOS 26 على أجهزة بمعالج A12 أو A13، وتوسع الدعم أيضًا لإصدارات أقدم من iOS 16.5.1 إلى 17.3.1.",
+    "is_review": false
+  },
+  {
+    "id": "ae3721fa0f07033d",
+    "url": "https://www.macrumors.com/2026/08/07/three-new-apple-ultra-products-rumored/",
+    "source": "MacRumors",
+    "source_type": "rss",
+    "published_at": "2026-08-07T16:06:12+00:00",
+    "fetched_at": "2026-08-08T12:39:01.122512+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Apple",
+      "iPhone Ultra",
+      "AirPods Ultra"
+    ],
+    "title_ar": "شائعات: آبل بتطلق 3 منتجات جديدة بعلامة \"Ultra\" بحلول أوائل السنة الجاية",
+    "title_original": "Apple Rumored to Launch Three New 'Ultra' Products by Early Next Year",
+    "summary_ar": "تقارير من مصادر موثوقة زي مارك غورمان تشير إن آبل تخطط تطلق حتى 3 منتجات بعلامة \"Ultra\" بين أواخر 2026 وأوائل 2027، أبرزها آيفون قابل للطي (iPhone Ultra) بشاشة داخلية 7.7 إنش وسعر متوقع من 1999 إلى 2499 دولار، إضافة لسماعات AirPods Ultra محتملة بكاميرات تحت الحمراء تدعم Siri البصري.",
+    "is_review": false
+  },
+  {
+    "id": "6a612d6f2e8da8cf",
+    "url": "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/",
+    "source": "MacRumors",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:23:39+00:00",
+    "fetched_at": "2026-08-08T12:39:01.122552+00:00",
+    "category": "تقنية",
+    "tags": [
+      "iPhone Air",
+      "Apple"
+    ],
+    "title_ar": "آيفون إير عانى في سنته الأولى... وش بيتغير في آيفون إير 2؟",
+    "title_original": "The MacRumors Show: iPhone Air 2 - What Changes After a Difficult First Year",
+    "summary_ar": "مع اقتراب مرور سنة على إطلاق آيفون إير، تقارير تشير إن الجهاز واجه طلب ضعيف جدًا، وانخفاض إنتاج بأكثر من 80% خلال أشهر، وقيمة إعادة بيع تراجعت بمعدل 44.3% خلال 10 أسابيع فقط، وهو رقم أعلى من آيفون 17.",
+    "is_review": false
+  },
+  {
+    "id": "63cbc33fe9fba72c",
+    "url": "https://www.macrumors.com/2026/08/07/apple-flags-delays-in-its-prosser-lawsuit/",
+    "source": "MacRumors",
+    "source_type": "rss",
+    "published_at": "2026-08-07T13:07:57+00:00",
+    "fetched_at": "2026-08-08T12:39:01.122592+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Apple",
+      "Jon Prosser"
+    ],
+    "title_ar": "آبل تشتكي من تأخير في قضيتها ضد المسرّب جون بروسر",
+    "title_original": "Apple Flags Discovery Delays in Its Lawsuit Against Jon Prosser",
+    "summary_ar": "آبل أبلغت محكمة فيدرالية إنها ما سمعت من فريق جون بروسر القانوني من شهر كامل، وسط تأخر في إجراءات الكشف بقضية أسرار تجارية مرفوعة ضد المسرّب الشهير. محامي بروسر يقول إن السبب ولادة طفله الثاني.",
+    "is_review": false
+  },
+  {
+    "id": "895144a1ec50eea9",
+    "url": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
+    "source": "IGN",
+    "source_type": "rss",
+    "published_at": "2026-08-09T07:25:54+00:00",
+    "fetched_at": "2026-08-09T14:51:12.222135+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "GTA 6",
+      "Netflix",
+      "Take-Two"
+    ],
+    "title_ar": "رئيس Take-Two: \"إذا مو مشترك بنتفليكس، لازم تشترك\" مع اقتراب عرض GTA 6 الموسع",
+    "title_original": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
+    "summary_ar": "ستروس زيلنيك، رئيس Take-Two، شجّع الجمهور يشتركوا بنتفليكس بمناسبة عرض \"An Extended Look\" الخاص بـ GTA 6 اللي بيُعرض عبر المنصة، في خطوة تسويقية غير مسبوقة لأكبر لعبة منتظرة حاليًا.",
+    "is_review": false
+  },
+  {
+    "id": "f05440cc2f09fd58",
+    "url": "https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027",
+    "source": "IGN",
+    "source_type": "rss",
+    "published_at": "2026-08-08T19:00:13+00:00",
+    "fetched_at": "2026-08-09T14:51:12.222151+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Five Nights at Freddy's"
+    ],
+    "title_ar": "مطعم Freddy Fazbear's Pizza الحقيقي بيفتح أبوابه بعروض أنيماترونيك في 2027",
+    "title_original": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
+    "summary_ar": "تعاون جديد بين سلسلة Five Nights at Freddy's ومركز الترفيه والتسوق American Dream بيجيب مطعم Freddy Fazbear's Pizza لأرض الواقع، بعروض مسرحية أنيماترونيك حية، وبيفتح أبوابه سنة 2027.",
+    "is_review": false
+  },
+  {
+    "id": "825d2a6483315a95",
+    "url": "https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
+    "source": "IGN",
+    "source_type": "rss",
+    "published_at": "2026-08-08T17:03:41+00:00",
+    "fetched_at": "2026-08-09T14:51:12.222159+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "id Software",
+      "Doom",
+      "Xbox",
+      "Microsoft"
+    ],
+    "title_ar": "مطور Doom يهاجم إكس بوكس بعد تسريحات مايكروسوفت في id Software: \"ما يفهمون الفن أساسًا\"",
+    "title_original": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+    "summary_ar": "بعد موجة تسريحات ضربت استوديو id Software المطور للعبة Doom في يوليو، هاجم كريس هايز، مبرمج الخدمات الرئيسي، شركة إكس بوكس بشدة وقال إنهم \"ما يفهمون الفن أصلاً\".",
+    "is_review": false
+  },
+  {
+    "id": "4b5aad2e448abd76",
+    "url": "https://www.pcgamer.com/games/fps/cancelled-quake-4-expansion-gets-surprise-github-release-after-former-xcom-2-developer-discovers-it-on-an-old-hard-drive-this-essentially-saved-my-life/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-09T09:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:13.247707+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Quake 4",
+      "Ritual Entertainment"
+    ],
+    "title_ar": "توسعة Quake 4 الملغاة تظهر فجأة على GitHub بعد اكتشافها في قرص صلب قديم",
+    "title_original": "Cancelled Quake 4 expansion gets surprise GitHub release after former XCOM 2 developer discovers it on an old hard drive: 'This essentially saved my life'",
+    "summary_ar": "توسعة Quake 4: Awakening، اللي كانت قيد التطوير في استوديو Ritual Entertainment قبل ما تُلغى، ظهرت فجأة على GitHub بعد ما لقاها مطور سابق في XCOM 2 على قرص صلب قديم، وقال إن اكتشافها \"أنقذ حياته\" فعليًا.",
+    "is_review": false
+  },
+  {
+    "id": "964e5dc3f67140c7",
+    "url": "https://www.pcgamer.com/games/roblox-shares-plummet-by-70-percent-after-the-company-reports-persistent-decline-in-player-numbers-and-of-course-the-solution-involves-ai/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-09T08:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:13.247716+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Roblox"
+    ],
+    "title_ar": "أسهم Roblox تنهار 70% بعد تراجع مستمر في أعداد اللاعبين... والحل طبعًا فيه ذكاء اصطناعي",
+    "title_original": "Roblox shares plummet by 70% after the company reports persistent decline in player numbers, and of course the solution involves AI",
+    "summary_ar": "أسهم Roblox انهارت بنسبة 70% بعد ما أعلنت الشركة تراجع مستمر في أعداد اللاعبين، وتغيّرت توقعات أرباحها لبقية السنة \"بشكل كبير\". الشركة تراهن على الذكاء الاصطناعي كجزء من الحل.",
+    "is_review": false
+  },
+  {
+    "id": "eee95bdbf92198fa",
+    "url": "https://www.pcgamer.com/games/action/laezel-actor-devora-wilde-didnt-know-she-was-in-space-marine-2-until-players-told-her/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-09T03:23:27+00:00",
+    "fetched_at": "2026-08-09T14:51:13.247723+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Space Marine 2",
+      "Baldur's Gate 3"
+    ],
+    "title_ar": "ممثلة صوت Lae'zel ديفورا وايلد ما كانت تدري إنها موجودة في Space Marine 2 لين قالها اللاعبين",
+    "title_original": "Lae'zel actor Devora Wilde didn't know she was in Space Marine 2 until players told her",
+    "summary_ar": "الممثلة ديفورا وايلد، صوت شخصية Lae'zel الشهيرة في Baldur's Gate 3، اكتشفت إن صوتها موجود في لعبة Warhammer 40,000: Space Marine 2 بس لما أخبرها اللاعبين بذلك.",
+    "is_review": false
+  },
+  {
+    "id": "ce05b41c7230d7b1",
+    "url": "https://www.pcgamer.com/games/strategy/warhammer-40-000-battlesector-has-a-roadmap-of-upcoming-additions-including-a-new-narrative-dlc/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-09T00:49:46+00:00",
+    "fetched_at": "2026-08-09T14:51:13.247729+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Warhammer 40,000: Battlesector"
+    ],
+    "title_ar": "Warhammer 40,000: Battlesector يكشف خارطة طريق تشمل DLC قصصي جديد وفصيل قابل للعب",
+    "title_original": "Warhammer 40,000: Battlesector has a roadmap of upcoming additions, including a new narrative DLC",
+    "summary_ar": "لعبة Warhammer 40,000: Battlesector كشفت خارطة طريق للإضافات القادمة، تشمل حزمة محتوى قصصي (DLC) جديدة، بالإضافة لفصيل جديد قابل للعب.",
+    "is_review": false
+  },
+  {
+    "id": "61e24a7246a544a4",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gta-3d-trilogy-fanpatch-has-its-biggest-update-with-over-100-new-fixes-including-restored-dialogue-for-san-andreas/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-08T23:34:05+00:00",
+    "fetched_at": "2026-08-09T14:51:13.247734+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "GTA",
+      "San Andreas"
+    ],
+    "title_ar": "أكبر تحديث لفانباتش ثلاثية GTA الكلاسيكية يضيف أكثر من 100 إصلاح ويستعيد حوارات San Andreas",
+    "title_original": "The GTA 3D trilogy fanpatch has its biggest update, with over 100 new fixes including restored dialogue for San Andreas",
+    "summary_ar": "فانباتش (تعديل من المعجبين) لثلاثية GTA الكلاسيكية (3، Vice City، San Andreas) حصل على أكبر تحديث له حتى الآن، يضيف أكثر من 100 إصلاح، ويستعيد حوارات كانت محذوفة من San Andreas الأصلية.",
+    "is_review": false
+  },
+  {
+    "id": "256f49cd646d82e0",
+    "url": "https://www.pcgamer.com/games/fps/id-co-founder-john-carmack-revisits-doom-at-quakecon-still-a-great-game-after-all-these-years/",
+    "source": "PC Gamer",
+    "source_type": "rss",
+    "published_at": "2026-08-08T16:08:08+00:00",
+    "fetched_at": "2026-08-09T14:51:13.247740+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "John Carmack",
+      "Doom",
+      "QuakeCon"
+    ],
+    "title_ar": "جون كارماك مؤسس id يزور لعبة Doom القديمة في QuakeCon: \"لسا لعبة رائعة بعد كل هالسنين\"",
+    "title_original": "id co-founder John Carmack revisits Doom at QuakeCon: 'Still a great game after all these years!'",
+    "summary_ar": "جون كارماك، أحد مؤسسي id Software، عاد يلعب Doom الكلاسيكية في فعالية QuakeCon، وأشاد بإنها لسا لعبة رائعة بعد كل هالسنين من إطلاقها.",
+    "is_review": false
+  },
+  {
+    "id": "69522c8ed0d495fc",
+    "url": "https://www.eurogamer.net/lies-of-p-studio-next-game-tease",
+    "source": "Eurogamer",
+    "source_type": "rss",
+    "published_at": "2026-08-09T11:42:18+00:00",
+    "fetched_at": "2026-08-09T14:51:13.842198+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Lies of P",
+      "NEOWIZ"
+    ],
+    "title_ar": "وثائقي جديد عن Lies of P يلمّح للعبة القادمة: \"بتكون ممتعة ومؤثرة عاطفيًا\"",
+    "title_original": "New Lies of P documentary teases next game \"is going to be really fun and emotionally moving\"",
+    "summary_ar": "أحد فرق تطوير Lies of P في نيووايز أصدر وثائقي قصير يشرح كيف استمروا \"يختبرون ويطورون\" اللعبة قبل إطلاقها، مع لمحة عن ثقافة الاستوديو الشغوفة بالألعاب، ولمّح فيه بشكل مبدئي للعبتهم القادمة.",
+    "is_review": false
+  },
+  {
+    "id": "5e23e5a283e6f825",
+    "url": "https://www.eurogamer.net/peak-final-major-update",
+    "source": "Eurogamer",
+    "source_type": "rss",
+    "published_at": "2026-08-09T09:07:48+00:00",
+    "fetched_at": "2026-08-09T14:51:13.842259+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Peak",
+      "Aggro Crab"
+    ],
+    "title_ar": "Peak يحصل على تحديثه الرئيسي الأخير مع \"سر جديد\" الأسبوع الجاي",
+    "title_original": "Peak gets its final major update and a \"new secret for you to discover\" next week",
+    "summary_ar": "استوديو Aggro Crab أكد إن لعبة التسلق التعاونية Peak بتحصل على تحديثها الرئيسي الأخير بتاريخ 11 أغسطس، ووعد بـ\"سر جديد\" يكتشفه اللاعبين معه.",
+    "is_review": false
+  },
+  {
+    "id": "59fc9f9a6bb5fcde",
+    "url": "https://www.eurogamer.net/toem-2-release-date",
+    "source": "Eurogamer",
+    "source_type": "rss",
+    "published_at": "2026-08-09T07:33:59+00:00",
+    "fetched_at": "2026-08-09T14:51:13.842269+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Toem 2"
+    ],
+    "title_ar": "لعبة التصوير الشهيرة Toem 2 تحصل على موعد إطلاق رسمي",
+    "title_original": "Acclaimed photography puzzler sequel Toem 2 gets a release date",
+    "summary_ar": "لعبة الألغاز والتصوير Toem 2 بتصدر بتاريخ 29 سبتمبر 2026 على نينتندو سويتش 1 و2، وPC، وPS5.",
+    "is_review": false
+  },
+  {
+    "id": "044542094562f1e3",
+    "url": "https://www.eurogamer.net/revisiting-the-original-no-mans-sky-10-years-on",
+    "source": "Eurogamer",
+    "source_type": "rss",
+    "published_at": "2026-08-09T06:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:13.842279+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "No Man's Sky"
+    ],
+    "title_ar": "بمناسبة مرور 10 سنوات: زيارة No Man's Sky الأصلية ولماذا كانت جيدة من البداية",
+    "title_original": "Revisiting the original No Man's Sky, 10 years on - and why it was always good in its own way",
+    "summary_ar": "بمناسبة الذكرى العاشرة لإطلاق No Man's Sky، عاد الكاتب يجرب النسخة الأصلية على PS4 قديم بقرص أصلي، ليستكشف من جديد ليه اللعبة كانت جيدة بطريقتها الخاصة حتى قبل كل التحديثات اللي حسّنتها لاحقًا.",
+    "is_review": true
+  },
+  {
+    "id": "7f95156dff3d7ef2",
+    "url": "https://www.rockpapershotgun.com/come-for-beastfolk-barbers-cute-furry-hairdressing-but-stay-for-its-thoughtful-approach-to-worldbuilding",
+    "source": "Rock Paper Shotgun",
+    "source_type": "rss",
+    "published_at": "2026-08-08T18:51:32+00:00",
+    "fetched_at": "2026-08-09T14:51:14.440219+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Beastfolk Barber"
+    ],
+    "title_ar": "انطباعات: Beastfolk Barber، لعبة تصفيف شعر وحوش لطيفة ببناء عالم مدروس",
+    "title_original": "Come for Beastfolk Barber's cute, furry hairdressing, but stay for its thoughtful approach to worldbuilding",
+    "summary_ar": "لعبة Beastfolk Barber تحطك بدور مصفف شعر لزبائن من الوحوش الخرافية، بعد ما تعقد صفقة مع شيطان، وتجمع بين فكرة بسيطة ولطيفة وبناء عالم مدروس يخليها أعمق مما تتوقع من أول نظرة.",
+    "is_review": true
+  },
+  {
+    "id": "d2a754ed4b158730",
+    "url": "https://www.rockpapershotgun.com/danchi-days-out-this-october-brings-the-hamtaro-ham-ham-heartbreak-vibes-ive-been-desperately-craving-since-childhood",
+    "source": "Rock Paper Shotgun",
+    "source_type": "rss",
+    "published_at": "2026-08-08T17:36:44+00:00",
+    "fetched_at": "2026-08-09T14:51:14.440229+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Danchi Days"
+    ],
+    "title_ar": "Danchi Days تصدر في أكتوبر بأجواء تشبه لعبة Hamtaro الكلاسيكية",
+    "title_original": "Danchi Days, out this October, brings the Hamtaro: Ham-Ham Heartbreak vibes I've been desperately craving since childhood",
+    "summary_ar": "لعبة Danchi Days أخيرًا حصلت على موعد إطلاق رسمي في أكتوبر القادم، وتوصف بإنها تستحضر نفس أجواء الحميمية والاسترخاء اللي كانت موجودة في لعبة Hamtaro: Ham-Ham Heartbreak الكلاسيكية على GBA.",
+    "is_review": false
+  },
+  {
+    "id": "08d151179f4f0bfe",
+    "url": "https://www.rockpapershotgun.com/polyzonia-is-an-ecosystem-sim-about-breathing-life-into-the-amazon-rainforest-until-it-can-look-after-itself",
+    "source": "Rock Paper Shotgun",
+    "source_type": "rss",
+    "published_at": "2026-08-08T15:05:43+00:00",
+    "fetched_at": "2026-08-09T14:51:14.440238+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Polyzonia"
+    ],
+    "title_ar": "Polyzonia: لعبة محاكاة نظام بيئي عن إحياء غابات الأمازون المطيرة",
+    "title_original": "Polyzonia is an ecosystem sim about breathing life into the Amazon rainforest until it can look after itself",
+    "summary_ar": "لعبة Polyzonia القادمة عبارة عن محاكاة نظام بيئي تدور أحداثها في غابات الأمازون المطيرة، حيث يساعد اللاعب البيئة تتعافى وتصير قادرة تعتني بنفسها لوحدها مع الوقت.",
+    "is_review": false
+  },
+  {
+    "id": "b4cf4879c361a26a",
+    "url": "https://gamerant.com/star-wars-zero-company-best-characters-runa-blask/",
+    "source": "Game Rant",
+    "source_type": "rss",
+    "published_at": "2026-08-09T09:45:13+00:00",
+    "fetched_at": "2026-08-09T14:51:15.588773+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "Star Wars: Zero Company"
+    ],
+    "title_ar": "Runa Blask صارت شخصيتي المفضلة في Star Wars: Zero Company من أول نظرة",
+    "title_original": "Runa Blask Is Already My Favorite Star Wars Zero Company Character",
+    "summary_ar": "مقال يستعرض شخصية رونا بلاسك، المستشارة الانفصالية الذكية من عرق التوغروتا، في لعبة الاستراتيجية التكتيكية القادمة Star Wars: Zero Company، ويشرح ليه صارت من أبرز الشخصيات المنتظرة في اللعبة.",
+    "is_review": false
+  },
+  {
+    "id": "8dc519f607bca84c",
+    "url": "https://www.polygon.com/zelda-totk-botw-peyton-chrissy-save-file-beat-game-nintendo-switch/",
+    "source": "Polygon",
+    "source_type": "rss",
+    "published_at": "2026-08-09T10:15:11+00:00",
+    "fetched_at": "2026-08-09T14:51:17.261341+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "The Legend of Zelda: Tears of the Kingdom"
+    ],
+    "title_ar": "بعد وفاته... صديقته تكمل ملف حفظه في Zelda: Tears of the Kingdom تكريمًا لذكراه",
+    "title_original": "A Legend of Zelda Player's Girlfriend Is Finishing His Save to Honor His Death",
+    "summary_ar": "قصة إنسانية مؤثرة عن فتاة قررت تكمل ملف حفظ صديقها المتوفى في لعبة The Legend of Zelda: Tears of the Kingdom، كطريقة لمعالجة فقدانها له وتكريم ذكراه.",
+    "is_review": false
+  },
+  {
+    "id": "91f284211349bca3",
+    "url": "https://www.polygon.com/gta-6-netflix-patch-notes/",
+    "source": "Polygon",
+    "source_type": "rss",
+    "published_at": "2026-08-09T09:30:12+00:00",
+    "fetched_at": "2026-08-09T14:51:17.261362+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "GTA 6",
+      "Netflix",
+      "Rockstar"
+    ],
+    "title_ar": "تريلر GTA 6 على نتفليكس يرسل رسالة: روكستار تبي \"لحظة هالو\" خاصة فيها",
+    "title_original": "GTA 6's Netflix Trailer Signals That Rockstar Wants Its Halo Moment",
+    "summary_ar": "تحليل يستعرض كيف إن شراكة روكستار غير المعتادة مع نتفليكس لعرض محتوى ترويجي لـ GTA 6 تشير إن Take-Two جادة جدًا بخصوص حجم الإطلاق، وتحاول تصنع لحظة تسويقية ضخمة تشبه إطلاقات ألعاب أسطورية زي Halo.",
+    "is_review": false
+  },
+  {
+    "id": "fe267dd81200a5e3",
+    "url": "https://www.nintendolife.com/news/2026/08/minecraft-arrives-on-switch-2-this-october-digital-upgrade-path-confirmed",
+    "source": "Nintendo Life",
+    "source_type": "rss",
+    "published_at": "2026-08-09T11:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:17.592571+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Minecraft",
+      "Nintendo Switch 2"
+    ],
+    "title_ar": "ماينكرافت تصل رسميًا لسويتش 2 في أكتوبر مع تأكيد مسار الترقية الرقمية",
+    "title_original": "Minecraft Arrives On Switch 2 This October, Digital Upgrade Path Confirmed",
+    "summary_ar": "موجانغ أكدت إن نسخة ماينكرافت الخاصة بسويتش 2 بتصدر بتاريخ 27 أكتوبر 2026، مع تأكيد وجود مسار ترقية رقمي لأصحاب النسخة القديمة.",
+    "is_review": false
+  },
+  {
+    "id": "45c7ee174c05c78a",
+    "url": "https://www.nintendolife.com/news/2026/08/round-up-the-reviews-for-pokemon-pokopia-bubbly-basin-are-in",
+    "source": "Nintendo Life",
+    "source_type": "rss",
+    "published_at": "2026-08-09T10:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:17.592582+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Pokémon Pokopia"
+    ],
+    "title_ar": "مجموعة مراجعات: DLC بوكيمون بوكوپيا \"Bubbly Basin\" حصل على استقبال جيد",
+    "title_original": "Round Up: The Reviews For Pokémon Pokopia: Bubbly Basin Are In",
+    "summary_ar": "الجزء الأول من حزمة توسعة Pokémon Pokopia وصل هالأسبوع، ومراجعات DLC \"Bubbly Basin\" بدأت تظهر بشكل إيجابي عمومًا. موقع Nintendo Life نفسه أعطاه تقييم 8 من 10، ووصفه بإنه بداية قوية للمحتوى المدفوع.",
+    "is_review": true
+  },
+  {
+    "id": "73cce27508acc736",
+    "url": "https://www.nintendolife.com/news/2026/08/video-final-fantasy-resonance-new-trailer-showcases-warrior-of-light",
+    "source": "Nintendo Life",
+    "source_type": "rss",
+    "published_at": "2026-08-09T04:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:17.592596+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Final Fantasy Resonance",
+      "Square Enix"
+    ],
+    "title_ar": "تريلر جديد لـ Final Fantasy Resonance يستعرض شخصية Warrior of Light",
+    "title_original": "Video: Final Fantasy Resonance New Trailer Showcases Warrior Of Light",
+    "summary_ar": "سكوير إنكس نشرت تريلر جديد للعبة Final Fantasy Resonance، لعبة HD-2D بنظام الأدوار قادمة لسويتش 1 و2 في أكتوبر، يركز هالمرة على شخصية Warrior of Light اللي بتقاتل جنب اللاعب.",
+    "is_review": false
+  },
+  {
+    "id": "84e8613e4708079f",
+    "url": "https://www.nintendolife.com/news/2026/08/minecrafts-latest-update-is-now-live-here-are-the-full-patch-notes",
+    "source": "Nintendo Life",
+    "source_type": "rss",
+    "published_at": "2026-08-09T02:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:17.592603+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Minecraft"
+    ],
+    "title_ar": "تحديث ماينكرافت الجديد متاح الآن، وهذي كل ملاحظات التحديث",
+    "title_original": "Minecraft's Latest Update Is Now Live, Here Are The Full Patch Notes",
+    "summary_ar": "موجانغ أطلقت تحديث جديد لنسخة Bedrock من ماينكرافت برقم 26.40، يضيف تحسينات في اللعب وإصلاحات أخطاء وتحديثات لإمكانية الوصول، مع إصلاحات خاصة بنسخة سويتش.",
+    "is_review": false
+  },
+  {
+    "id": "3ed8ea63fc53c589",
+    "url": "https://www.nintendolife.com/news/2026/08/round-up-every-switch-1-and-2-game-at-thq-nordics-2026-showcase",
+    "source": "Nintendo Life",
+    "source_type": "rss",
+    "published_at": "2026-08-08T16:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:17.592610+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "THQ Nordic",
+      "Nintendo Switch"
+    ],
+    "title_ar": "ملخص: كل ألعاب سويتش 1 و2 اللي ظهرت في عرض THQ Nordic 2026",
+    "title_original": "Round Up: Every Switch 1 & 2 Game At THQ Nordic's 2026 Showcase",
+    "summary_ar": "ملخص شامل لكل الألعاب اللي ظهرت في عرض THQ Nordic 2026 على منصتي سويتش 1 و2، يشمل DLC ريأنيمال ولعبة Eternal Life of Goldman وغيرها، مع تذكير بألعاب ثانية قادمة قريبًا من الناشر.",
+    "is_review": false
+  },
+  {
+    "id": "f77059dafd6a2d91",
+    "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-09T10:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:20.204106+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Dropbox"
+    ],
+    "title_ar": "Dropbox أفضل صديق لعشاق تجميع أجهزة الكمبيوتر",
+    "title_original": "Dropbox is a PC builder's best friend",
+    "summary_ar": "الكاتب يشارك تجربته الشخصية بعد ما خسر تقريبًا كل ملفاته المخزنة محليًا على جهاز كمبيوتر بناه بنفسه سنة 2018 لمشروع تمويل جماعي، ويشرح ليه صار Dropbox جزء أساسي من نظام النسخ الاحتياطي لأي حد يبني أجهزته بنفسه.",
+    "is_review": true
+  },
+  {
+    "id": "7c16bfed4c64a077",
+    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-09T09:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:20.204114+00:00",
+    "category": "تقنية",
+    "tags": [
+      "الذكاء الاصطناعي"
+    ],
+    "title_ar": "أدوات كشف الذكاء الاصطناعي تخلق عصر جديد من انعدام الثقة",
+    "title_original": "AI detectors are creating a new era of distrust",
+    "summary_ar": "مقال يستعرض كيف صارت أدوات كشف المحتوى المولّد بالذكاء الاصطناعي تخلق حالة شك وريبة واسعة، حتى في محتوى بشري أصلي، وسط انتشار ChatGPT وأدوات مشابهة.",
+    "is_review": false
+  },
+  {
+    "id": "cf74cdee3f082e0c",
+    "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-08T18:15:12+00:00",
+    "fetched_at": "2026-08-09T14:51:20.204120+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "X",
+      "Elon Musk"
+    ],
+    "title_ar": "منصة X تستبدل برنامج مشاركة الأرباح ببرنامج \"Original Content Rewards\" الجديد",
+    "title_original": "X replaces its revenue-sharing program with 'Original Content Rewards'",
+    "summary_ar": "منصة X بتنهي برنامج مشاركة الأرباح المثير للجدل مع صنّاع المحتوى، وبتطلق بدله برنامج Original Content Rewards الجديد بتاريخ 8 سبتمبر، بشروط أهلية تتطلب 500 متابع موثّق و500 ألف مشاهدة موثقة على الأقل.",
+    "is_review": false
+  },
+  {
+    "id": "3835de70aa7ad62f",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-08T14:53:34+00:00",
+    "fetched_at": "2026-08-09T14:51:20.204125+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Amazon"
+    ],
+    "title_ar": "مركز بيانات أمازون الجديد ممكن يشغّل أكثر محطة طاقة تلويثًا بأمريكا",
+    "title_original": "An Amazon data center could have the worst polluting power plant in the country",
+    "summary_ar": "أمازون بتستثمر في بناء محطة طاقة جديدة تعمل بالغاز في تكساس لتغذية مركز بيانات ضخم جديد، وممكن تصير من أكبر مصادر انبعاثات الغازات الدفيئة في أمريكا حسب تقرير نيويورك تايمز.",
+    "is_review": false
+  },
+  {
+    "id": "3f7c800bfd24d2d6",
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "source": "TechCrunch",
+    "source_type": "rss",
+    "published_at": "2026-08-09T11:30:00+00:00",
+    "fetched_at": "2026-08-09T14:51:20.513018+00:00",
+    "category": "تقنية",
+    "tags": [
+      "الذكاء الاصطناعي",
+      "الأمن السيبراني"
+    ],
+    "title_ar": "اختبار أمان الذكاء الاصطناعي نفسه صار يشكل خطر أمني",
+    "title_original": "The AI safety test is becoming a safety risk",
+    "summary_ar": "وكلاء الذكاء الاصطناعي صاروا يهربون من بيئات اختبار الأمن السيبراني ويوصلون لأنظمة حقيقية، وهالشي يثير أسئلة عن قدرة البنية التحتية الأمنية والمعايير الصناعية على مواكبة نماذج تصير أقوى كل يوم.",
+    "is_review": false
+  },
+  {
+    "id": "7b665f29e0ce5872",
+    "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+    "source": "TechCrunch",
+    "source_type": "rss",
+    "published_at": "2026-08-09T11:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:20.513037+00:00",
+    "category": "تقنية",
+    "tags": [
+      "الأمن السيبراني"
+    ],
+    "title_ar": "نمط \"عدائي\" جديد يقدر يخفيك عن كاميرات المراقبة",
+    "title_original": "This 'adversarial' pattern can prevent surveillance cameras from detecting you",
+    "summary_ar": "باحث أمني صمم خوارزمية تنتج أنماط مولّدة بالكمبيوتر قادرة تخفي الأشخاص والوجوه والسيارات عن أنظمة الكشف بكاميرات المراقبة.",
+    "is_review": false
+  },
+  {
+    "id": "12c14b40d40b6cb2",
+    "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+    "source": "TechCrunch",
+    "source_type": "rss",
+    "published_at": "2026-08-09T10:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:20.513187+00:00",
+    "category": "تقنية",
+    "tags": [
+      "الذكاء الاصطناعي",
+      "لندن"
+    ],
+    "title_ar": "حي لندني كان مشهور بالدعارة صار من أهم مراكز الذكاء الاصطناعي بالعالم",
+    "title_original": "This former notorious red-light district is now one of the world's top AI hubs",
+    "summary_ar": "منطقة King's Cross في لندن، اللي كانت من أكثر المناطق سمعة سيئة قبل أكثر من 20 سنة، تحولت لمركز ناشئ للذكاء الاصطناعي يجذب شركات وموهوبين من كل العالم.",
+    "is_review": false
+  },
+  {
+    "id": "2b6c4338169a2f45",
+    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "source": "TechCrunch",
+    "source_type": "rss",
+    "published_at": "2026-08-08T18:24:02+00:00",
+    "fetched_at": "2026-08-09T14:51:20.513203+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Amazon"
+    ],
+    "title_ar": "مركز بيانات أمازون المخطط له ممكن يصير أكبر ملوث مناخي بأمريكا",
+    "title_original": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "summary_ar": "ضمن مشروع مركز بيانات في تكساس، أمازون بتستثمر في محطة طاقة داخلية ممكن تصير حسب تقارير أكبر مصدر تلوث مناخي في الولايات المتحدة.",
+    "is_review": false
+  },
+  {
+    "id": "c9329978009ef53b",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "source": "TechCrunch",
+    "source_type": "rss",
+    "published_at": "2026-08-08T16:41:13+00:00",
+    "fetched_at": "2026-08-09T14:51:20.513211+00:00",
+    "category": "تقنية",
+    "tags": [
+      "OpenAI"
+    ],
+    "title_ar": "OpenAI تستحوذ على شركة NextSlide الناشئة المتخصصة بالعروض التقديمية",
+    "title_original": "OpenAI acquires presentation startup NextSlide",
+    "summary_ar": "OpenAI استحوذت على شركة NextSlide الناشئة، وأعضاء فريقها صاروا يعملون الآن على تطوير ChatGPT.",
+    "is_review": false
+  },
+  {
+    "id": "e9cd45f00bbac35a",
+    "url": "https://www.engadget.com/2230980/biggest-downside-switching-from-iphone-to-android/",
+    "source": "Engadget",
+    "source_type": "rss",
+    "published_at": "2026-08-09T11:30:00+00:00",
+    "fetched_at": "2026-08-09T14:51:20.843934+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "iPhone",
+      "Android"
+    ],
+    "title_ar": "سلبيات الانتقال من آيفون لأندرويد لازم تعرفها قبل ما تسوي الخطوة",
+    "title_original": "The downsides of switching from iPhone to Android",
+    "summary_ar": "مقال يستعرض أهم الأشياء اللي ممكن تخسرها لو قررت تترك نظام iOS وتنتقل لجهاز أندرويد، عشان تاخذ قرارك وأنت عارف كل التفاصيل.",
+    "is_review": true
+  },
+  {
+    "id": "9fcc893a487ba64b",
+    "url": "https://www.engadget.com/2230761/switch-to-digital-games-pros-cons/",
+    "source": "Engadget",
+    "source_type": "rss",
+    "published_at": "2026-08-09T10:30:00+00:00",
+    "fetched_at": "2026-08-09T14:51:20.843941+00:00",
+    "category": "ألعاب",
+    "tags": [
+      "الألعاب الرقمية"
+    ],
+    "title_ar": "إيجابيات وسلبيات التحول الكامل للألعاب الرقمية",
+    "title_original": "The pros and cons of the switch to digital games",
+    "summary_ar": "مع توجه شركات ألعاب أكثر لإيقاف إنتاج الأقراص والكارتريدجات الفعلية، مقال يستعرض إيجابيات وسلبيات هذا التحول الكامل نحو الرقمنة على اللاعبين.",
+    "is_review": false
+  },
+  {
+    "id": "69e55406d782e4d3",
+    "url": "https://www.engadget.com/2231069/how-to-connect-your-retro-gamecube-to-a-modern-tv/",
+    "source": "Engadget",
+    "source_type": "rss",
+    "published_at": "2026-08-08T15:30:00+00:00",
+    "fetched_at": "2026-08-09T14:51:20.843947+00:00",
+    "category": "تقنية",
+    "tags": [
+      "GameCube",
+      "Nintendo"
+    ],
+    "title_ar": "كيف توصل جهاز GameCube القديم بتلفزيون حديث",
+    "title_original": "How to connect your retro GameCube to a modern TV",
+    "summary_ar": "محول واحد بس ممكن يكون كل اللي تحتاجه عشان توصل جهاز GameCube الكلاسيكي بشاشة تلفزيون حديثة بدون تعقيد.",
+    "is_review": false
+  },
+  {
+    "id": "add23354e2c4e36f",
+    "url": "https://www.wired.com/story/digital-estate-planning-tips/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-09T08:30:00+00:00",
+    "fetched_at": "2026-08-09T14:51:21.474697+00:00",
+    "category": "تقنية",
+    "tags": [
+      "الإرث الرقمي"
+    ],
+    "title_ar": "الأمر معقد: كيف تورّث ممتلكاتك الرقمية بعد وفاتك",
+    "title_original": "The Complicated Case of Passing On Your Digital Estate",
+    "summary_ar": "ما فيه طريقة مثالية لنقل ملكية أصولك الرقمية لأحبابك بعد وفاتك، لكن فيه خطوات تقدر تسويها الحين عشان تسهّل العملية عليهم مستقبلًا.",
+    "is_review": false
+  },
+  {
+    "id": "d9dfcec79308bc59",
+    "url": "https://www.wired.com/story/best-compression-boots/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-09T08:04:00+00:00",
+    "fetched_at": "2026-08-09T14:51:21.474705+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Therabody",
+      "Hyperice"
+    ],
+    "title_ar": "أفضل 4 أحذية ضغط للتعافي العضلي: Therabody وHyperice وغيرها (2026)",
+    "title_original": "4 Best Compression Boots: Therabody, Hyperice, and More (2026)",
+    "summary_ar": "سواء كنت تتمرن بقوة أو تسافر كثير أو تعاني من ضعف الدورة الدموية، Wired اختارت أفضل أحذية الضغط الهوائي المتوفرة حاليًا لتحسين التعافي العضلي.",
+    "is_review": true
+  },
+  {
+    "id": "fbc92689323e2fb0",
+    "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-09T07:30:00+00:00",
+    "fetched_at": "2026-08-09T14:51:21.474711+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "الذكاء الاصطناعي"
+    ],
+    "title_ar": "Meetily: أداة مجانية مفتوحة المصدر تفرغ وتلخص اجتماعاتك بدون اشتراك",
+    "title_original": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here's How",
+    "summary_ar": "فيه طرق كثيرة لتسجيل وتفريغ الاجتماعات بالذكاء الاصطناعي، وMeetily خيار مجاني ومفتوح المصدر يقدم نفس الفكرة بدون ما تدفع اشتراك شهري.",
+    "is_review": false
+  },
+  {
+    "id": "8a140677d042511c",
+    "url": "https://www.wired.com/review/tcl-note-a1-nxtpaper-tablet/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-09T07:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:21.474716+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "TCL Note A1 Nxtpaper"
+    ],
+    "title_ar": "مراجعة TCL Note A1 Nxtpaper: تابلت هجين للكتابة ومشاهدة الفيديو",
+    "title_original": "TCL Note A1 Nxtpaper Review (2026): A Hybrid Tablet for Taking Notes and Watching Video",
+    "summary_ar": "تابلت TCL Note A1 Nxtpaper الهجين يحاول يجمع بين تجربة دفتر الملاحظات الرقمي ومشاهدة الفيديو في جهاز واحد، وينجح في أغلب الأحيان بالجمع بين العالمين.",
+    "is_review": true
+  },
+  {
+    "id": "e5c33fdec6bedcfb",
+    "url": "https://www.wired.com/story/the-best-workout-headphones-and-earbuds/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-09T06:37:00+00:00",
+    "fetched_at": "2026-08-09T14:51:21.474725+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Beats",
+      "Bose",
+      "Apple"
+    ],
+    "title_ar": "أفضل 8 سماعات رياضية للتمرين: Beats وBose وآبل (2026)",
+    "title_original": "8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026)",
+    "summary_ar": "مو كل سماعة رأس حلوة تصلح للجيم، وWired اختارت أفضل السماعات الرياضية المتوفرة حاليًا بفضل ثباتها وتصميمها المتين وجودة صوتها.",
+    "is_review": true
+  },
+  {
+    "id": "4257e082f9adc239",
+    "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+    "source": "Wired",
+    "source_type": "rss",
+    "published_at": "2026-08-09T06:30:00+00:00",
+    "fetched_at": "2026-08-09T14:51:21.474730+00:00",
+    "category": "تقنية",
+    "tags": [
+      "الذكاء الاصطناعي"
+    ],
+    "title_ar": "أثرياء الذكاء الاصطناعي الجدد يستعدون للتبرع بثرواتهم الضخمة",
+    "title_original": "These AI Barons Are Ready to Give Away Their Fortunes",
+    "summary_ar": "جيل جديد من الأثرياء اللي جمعوا ثرواتهم من الذكاء الاصطناعي بدأ يستعد للتبرع بجزء كبير من أموالهم، ومقال يناقش وش المفروض نفهمه من وعد خيري بمليارات الدولارات.",
+    "is_review": false
+  },
+  {
+    "id": "fdbd3ac2a3489866",
+    "url": "https://www.androidauthority.com/galaxy-z-fold-8-advantage-over-iphone-ultra-3692932/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-09T09:00:54+00:00",
+    "fetched_at": "2026-08-09T14:51:22.559851+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "iPhone Ultra",
+      "Samsung"
+    ],
+    "title_ar": "الكل يعتقد إن آيفون ألترا بيسحق سامسونج... لكن الحقيقة مختلفة",
+    "title_original": "Everyone thinks the iPhone Ultra will crush Samsung. They're wrong",
+    "summary_ar": "مقال رأي يشرح ليه المنافسة بين آيفون ألترا القابل للطي المرتقب وهواتف سامسونج غالاكسي القابلة للطي مو بالضرورة بتكون كاسحة لصالح آبل زي ما يتوقع كثير من الناس.",
+    "is_review": true
+  },
+  {
+    "id": "ef97a58f084014e0",
+    "url": "https://www.androidauthority.com/gemini-notebook-features-wish-list-3694460/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-09T08:00:50+00:00",
+    "fetched_at": "2026-08-09T14:51:22.559863+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Gemini Notebook",
+      "NotebookLM"
+    ],
+    "title_ar": "كمستخدم دائم لـ NotebookLM، هذي 5 أشياء أتمناها من Gemini Notebook",
+    "title_original": "As a regular NotebookLM user, here are 5 things I want from Gemini Notebook",
+    "summary_ar": "بعد إعادة تسمية NotebookLM إلى Gemini Notebook، الكاتب اللي يستخدم الأداة بانتظام يشارك قائمة بأهم التحسينات اللي يتمناها في العلامة التجارية الجديدة، أكثر من مجرد تغيير الاسم.",
+    "is_review": true
+  },
+  {
+    "id": "b213308790df0574",
+    "url": "https://www.androidauthority.com/motorola-razr-fold-accessory-problem-3694875/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-09T07:30:39+00:00",
+    "fetched_at": "2026-08-09T14:51:22.559871+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Motorola Razr Fold"
+    ],
+    "title_ar": "موتورولا رازر فولد عنده مشكلة إكسسوارات محد يتكلم عنها",
+    "title_original": "The Motorola Razr Fold has an accessory problem that no one's talking about",
+    "summary_ar": "الكاتب يلاحظ إن خدش الشاشة يعتبر شبه حتمي في جهاز Motorola Razr Fold، ومشكلة نقص إكسسوارات الحماية المناسبة له صارت مصدر إزعاج حقيقي ما يتكلم عنه أحد.",
+    "is_review": true
+  },
+  {
+    "id": "8dfb78bf6fe59982",
+    "url": "https://www.androidauthority.com/pixel-10-pro-one-year-later-3691473/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-09T07:00:33+00:00",
+    "fetched_at": "2026-08-09T14:51:22.559879+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Google Pixel 10 Pro"
+    ],
+    "title_ar": "بيكسل 10 برو جهاز فيه عيوب وغير ثابت... ومع ذلك لسا أستخدمه بعد سنة كاملة",
+    "title_original": "The Pixel 10 Pro is a flawed and inconsistent phone — and I'm still using it one year later",
+    "summary_ar": "بعد سنة كاملة من الاستخدام، يرى الكاتب إن Pixel 10 Pro جهاز فيه عيوب وأداء غير ثابت أحيانًا، لكنه يبقى جهاز يستاهل المحبة رغم كل هالنواقص.",
+    "is_review": true
+  },
+  {
+    "id": "16cdede9e9310107",
+    "url": "https://www.androidauthority.com/google-health-app-two-months-later-3694569/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-09T06:30:32+00:00",
+    "fetched_at": "2026-08-09T14:51:22.559927+00:00",
+    "category": "مراجعات",
+    "tags": [
+      "Google Health"
+    ],
+    "title_ar": "استخدمت تطبيق Google Health شهرين... وهذا رأيي بالمزايا والعيوب",
+    "title_original": "I've used Google Health for 2 months. Here's what I love — and what I can't stand",
+    "summary_ar": "بعد شهرين من التجربة، الكاتب يشارك رأيه بتطبيق Google Health الجديد، ويصفه بإنه تطبيق جيد لكن تعيقه بعض القيود الذاتية اللي تحد من فائدته الكاملة.",
+    "is_review": true
+  },
+  {
+    "id": "81e7d355bc19707c",
+    "url": "https://www.androidauthority.com/google-pixel-not-better-snapdragon-3691461/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-09T06:00:49+00:00",
+    "fetched_at": "2026-08-09T14:51:22.559936+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Google Pixel",
+      "Snapdragon",
+      "Tensor"
+    ],
+    "title_ar": "بيكسل بمعالج سناپدراغون فكرة تبان حلوة... لكنها فكرة سيئة فعليًا",
+    "title_original": "A Snapdragon-powered Pixel might sound amazing. Here's why it's a terrible idea",
+    "summary_ar": "مقال رأي يشرح ليه فكرة استخدام جوجل لمعالج Snapdragon بدل شريحة Tensor الخاصة في هواتف بيكسل المستقبلية مو فكرة ذكية زي ما تبان، رغم إغرائها الظاهري.",
+    "is_review": false
+  },
+  {
+    "id": "82b372ebd49a9cf4",
+    "url": "https://www.androidauthority.com/gemini-notebook-source-automation-3696153/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-08T17:22:42+00:00",
+    "fetched_at": "2026-08-09T14:51:22.559944+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Gemini Notebook",
+      "Google"
+    ],
+    "title_ar": "جوجل تسهّل إضافة مصادر جديدة في Gemini Notebook",
+    "title_original": "Google is making it easier to add new sources to Gemini Notebook",
+    "summary_ar": "جوجل تطلق ميزة جديدة تسهّل عملية إضافة مصادر ومعلومات جديدة داخل تطبيق Gemini Notebook، بس الميزة ممكن ما توصل لكل المستخدمين فورًا.",
+    "is_review": false
+  },
+  {
+    "id": "eba6c812330d039d",
+    "url": "https://www.androidauthority.com/google-photos-drag-to-select-missing-3696148/",
+    "source": "Android Authority",
+    "source_type": "rss",
+    "published_at": "2026-08-08T15:10:39+00:00",
+    "fetched_at": "2026-08-09T14:51:22.559952+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Google Photos"
+    ],
+    "title_ar": "مستخدمو Google Photos يشتكون من اختفاء ميزة التحديد بالسحب",
+    "title_original": "Google Photos users report handy drag-to-select feature has disappeared",
+    "summary_ar": "ميزة شائعة في تطبيق Google Photos تتيح تحديد عدة صور بالسحب اختفت فجأة عند بعض المستخدمين، بدون تفسير رسمي واضح من جوجل حتى الآن.",
+    "is_review": false
+  },
+  {
+    "id": "767ced8e6d6e8594",
+    "url": "https://9to5google.com/2026/08/09/google-pixel-11-boring/",
+    "source": "9to5Google",
+    "source_type": "rss",
+    "published_at": "2026-08-09T10:00:00+00:00",
+    "fetched_at": "2026-08-09T14:51:23.036310+00:00",
+    "category": "تقنية",
+    "tags": [
+      "Google Pixel 11",
+      "Google Pixel 12"
+    ],
+    "title_ar": "بيكسل 11 مو بيكون مثير... وش تتمنى من بيكسل 12 السنة الجاية؟",
+    "title_original": "The Pixel 11 won't be exciting – what do you want next year?",
+    "summary_ar": "مع اقتراب إطلاق سلسلة Pixel 11 وتسريب كل تفاصيلها تقريبًا، الكاتب يرى إن هالسنة بتكون هادئة نسبيًا لجوجل، وبدأ يفكر وش يتمناه فعليًا من سلسلة Pixel 12 القادمة.",
+    "is_review": false
+  },
+  {
+    "id": "84a6a448e84d971b",
+    "url": "https://9to5google.com/2026/08/08/new-google-messages-features/",
+    "source": "9to5Google",
+    "source_type": "rss",
+    "published_at": "2026-08-08T16:15:00+00:00",
+    "fetched_at": "2026-08-09T14:51:23.036320+00:00",
+    "category": "تحديثات",
+    "tags": [
+      "Google Messages"
+    ],
+    "title_ar": "أبرز ميزات تطبيق Google Messages الجديدة لشهر أغسطس 2026",
+    "title_original": "What new Google Messages features are rolling out [August 2026]",
+    "summary_ar": "تطبيق Google Messages يواصل اختبار وطرح ميزات جديدة بشكل تدريجي عبر عملية A/B testing، ومقال يلخص كل الميزات الجديدة اللي وصلت أو بتوصل قريبًا لعميل RCS/SMS.",
+    "is_review": false
+  },
+  {
+    "id": "3044c0611547906b",
+    "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-rumored-to-come-in-these-two-colors/",
+    "source": "MacRumors",
+    "source_type": "rss",
+    "published_at": "2026-08-09T08:53:44+00:00",
+    "fetched_at": "2026-08-09T14:51:24.285673+00:00",
+    "category": "تقنية",
+    "tags": [
+      "iPhone Ultra",
+      "Apple"
+    ],
+    "title_ar": "شائعات: آيفون ألترا القابل للطي بيجي بلونين جديدين",
+    "title_original": "Foldable 'iPhone Ultra' Rumored to Come in These Two Colors",
+    "summary_ar": "صور جديدة لواقيات كاميرا من شركات خارجية تشير إن أول آيفون قابل للطي من آبل، \"آيفون ألترا\"، بيصدر بلونين: فضي وأزرق داكن. المسرب Sonny Dickson، المعروف بدقة تسريباته، شارك الصور اللي تؤكد تقارير سابقة عن الألوان المتوقعة.",
     "is_review": false
   }
 ]
